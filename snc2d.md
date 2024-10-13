@@ -146,7 +146,7 @@ Structure: Reactant + Reactant -> Product
 
 # Unit 2: Biology
 
-## 1. Introduction s
+## 1. Introduction
 #### Cell
 - Basic unit of life
 - Self replicating
