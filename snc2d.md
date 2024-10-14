@@ -300,7 +300,11 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - **Not** in Mitosis
 
 ## 4. Cancer
-### Cell Cycle Check
+#### Cell Cycle Checkpoints
+- G1 and S: Organelle duplication
+- G2 and M: DNA replication
+- M: Spindle fibers
+
 
 ## 5. Case Study
 ### HPV
