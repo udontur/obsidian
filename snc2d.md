@@ -306,10 +306,11 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - M: Spindle fibers
 
 ### Gene Mutation
-- Defination: DNA broken (2 adjacent strand bond together)
+- Definition: DNA broken (2 adjacent strand bond together)
 - Cause: UV light, Toxins, Carcinogen
-- Bad DNA = Gene Mutation = Bad protein = bad cell
-- 
+- Bad DNA = Gene Mutation = Bad protein = Mutated cell
+- Checkpoints G2 and M can catch it
+- Group of Mutated cell = Tumor
 
 ## 5. Case Study
 ### HPV
