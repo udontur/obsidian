@@ -376,13 +376,18 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- High: 40x
 
 ### Rule of Thumb
-1. 2 cells only
-2. Pencil only
-3. No arrows
-4. Straight label line (Ruler)
-5. Untangled label lines
-6. Label line touch object
-7. Label line on the right
-8. Total magnification
-9. Title: Type of cell
-10. Identify Visible cells
+1. Amount: 2 cells only
+2. Tool: Pencil and Ruler
+3. Label line
+	1. No arrows
+	2. Straight
+	3. Untangled
+	4. 
+4. No arrows
+5. Straight label line (Ruler)
+6. Untangled label lines
+7. Label line touch object
+8. Label line on the right
+9. Total magnification
+10. Title: Type of cell
+11. Identify Visible cells
