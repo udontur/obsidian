@@ -380,4 +380,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 2. Pencil only
 3. No arrows
 4. Straight label line (Ruler)
-5. 
+5. Untangled label lines
+6. Label line touch object
+7. Label line on the right
+8. Total magnification
+9. Title: Type of cell
+10. Identify Visible cells
