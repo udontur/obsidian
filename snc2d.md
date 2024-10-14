@@ -299,7 +299,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Each daughter cell is identical to parent cell
 - **Not** in Mitosis
 
-## 4. Case Study
+## 4. Cancer
+
+## 5. Case Study
 ### HPV
 - Human Papillomavirus
 - Transmitted sexually
