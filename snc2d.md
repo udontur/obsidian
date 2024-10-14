@@ -335,7 +335,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 1. Endoscope: Fiber optic cable see narrow passage
 2. X-Ray: Electromagnetic radiation beam see through (not bones)
 3. Computerized Axial Tomography (CT): Multi-X-Ray scan
-4. Ultrasound: High frequency sound wav
+4. Ultrasound: High frequency sound waves reflect soft tissues
+5. Magnetic Resonance Imaging: 3D image by strong magnetic field
+6. Self-examination
+7. 
 
 
 ## 5. Case Study
