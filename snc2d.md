@@ -306,7 +306,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - M: Spindle fibers
 
 ### Gene Mutation
-- Cancer starts: DNA broken (2 adjacent )
+- Definiation: DNA broken (2 adjacent strand bond togeather)
+- Bad DNA = Bad protien = bad cell = 
 
 ## 5. Case Study
 ### HPV
