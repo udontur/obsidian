@@ -322,7 +322,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ### Tumor
 - A mass of cells that has not functions
-- 
+- **Bengin**: No harm, crowding the surrounding
+- ****
 ### Cancer cells
 - Mutated DNA + Broken substance + Harmful
 - Identity: Irregular shaped, Very big multi-nuclei
