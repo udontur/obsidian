@@ -368,4 +368,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ## 6. Microscope drawing
 #### Total magnification
-- $\text{Total}=\text{Oc}$
+- $\text{Total}=\text{Ocular}\times \text{Objective}$
+- Ocular lens: 10x
+- Objective lens
+	- Low: 4x
+	- Medium: 10x
+	- High: 40x
