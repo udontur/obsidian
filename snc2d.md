@@ -332,8 +332,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Irregular shape
 
 ##### Cancer detection
-1. Endoscope: Fiber optic cable
+1. Endoscope: Fiber optic cable see narrow passage
 2. X-Ray: Electromagnetic radiation beam see through (not bones)
+3. Computerized Axial Tomography (CT): Multi-X-Ray scan
+4. Ultrasound: High frequency sound wav
 
 
 ## 5. Case Study
