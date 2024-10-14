@@ -374,3 +374,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Low: 4x
 	- Medium: 10x
 	- High: 40x
+
+### Rule of Thumb
+1. 
