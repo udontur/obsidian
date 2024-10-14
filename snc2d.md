@@ -331,8 +331,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Identity: Irregular shaped, Very big multi-nuclei
 - Irregular shape
 
-### Cancer detection
-
+##### Cancer detection
+1. Endoscope: Fiber optic cable
+2. X-Ray: Electromagnetic radiation beam see through (not bones)
 
 
 ## 5. Case Study
