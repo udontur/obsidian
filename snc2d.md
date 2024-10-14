@@ -305,6 +305,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - G2 and M: DNA replication
 - M: Spindle fibers
 
+### Gene Mutation
+- Cancer starts: DNA broken (2 adjacent )
 
 ## 5. Case Study
 ### HPV
