@@ -305,7 +305,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - G2 and M: DNA replication
 - M: Spindle fibers
 ### Gene Mutation
-- Defintion: DNA broken (2 adjacent strand bond together)
+- DNA broken (2 adjacent strand bond together)
 - Cause: UV light, Toxins, Carcinogen
 - Gene Mutation = Bad protein = Mutated cell
 - Macrophages: Checkpoints G2 and M can catch it
@@ -320,10 +320,14 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Tumor Suppressing Protein: Broken
 	- Oncoprotein: Always on
 
+### Tumor
+- A mass of 
 ### Cancer cells
 - Mutated DNA + Broken substance + Harmful
 - Identity: Irregular shaped, Very big multi-nuclei
 - Irregular shape
+
+
 ## 5. Case Study
 ### HPV
 - Human Papillomavirus
