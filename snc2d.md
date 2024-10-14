@@ -314,9 +314,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ### Substance
 - **Healthy cells** 
-	- Tumor Suppressor Protein: Working
+	- Tumor Suppressing Protein: Working
 	- Proto-oncoprotein: Mostly off
 - **Cancer cells**
+	- Tumor Suppressing Protein
 
 ## 5. Case Study
 ### HPV
