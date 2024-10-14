@@ -321,7 +321,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Oncoprotein: Always on
 
 ### Cancer cells
-- Mutated DNA + 
+- Mutated DNA + Broken substance + Harmful
+- Identity: Irregular shaped, Very big multi-nuclei
+- Irregular shape
 ## 5. Case Study
 ### HPV
 - Human Papillomavirus
