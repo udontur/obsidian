@@ -321,7 +321,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Oncoprotein: Always on
 
 ### Tumor
-- A mass of 
+- A mass of cells that has not functions
+- 
 ### Cancer cells
 - Mutated DNA + Broken substance + Harmful
 - Identity: Irregular shaped, Very big multi-nuclei
