@@ -345,9 +345,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Chemotherapy: Slow down growth with drugs
 - Radiation: Ionizing radiation kill cancer cells
 - mRNA: Make protein that attack tumors
-- Biophotonics: Lazer light beam to de
-
-
+- Biophotonics: Lazer light beam to detect cancer and treat
 ## 5. Case Study
 ### HPV
 - Human Papillomavirus
@@ -367,3 +365,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 2. E6 and E7 disrupts proofreading process of the cell
 3. E6 and E7 promotes tumor and malfunction (Mutation)
 4. Accumulation of mutation causes Cancer
+
+## 6. Microscope drawing
