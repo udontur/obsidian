@@ -326,12 +326,13 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - **Malignant Tumor** ([[#Cancer cells]]): Harmful, Interfere surrounding function
 	- Metastasis: Cancer cells establish secondary tumor via bloodstream
 	- It was fun: [Our slides](https://docs.google.com/presentation/d/1cca9r0YOSBxBUTCVJDdohw2EPoxpJWkZTjMpMMRLwNY/edit#slide=id.g1c960fe0008_0_0)
-	- 
-
 ### Cancer cells
 - Mutated DNA + Broken substance + Harmful
 - Identity: Irregular shaped, Very big multi-nuclei
 - Irregular shape
+
+### Cancer detection
+
 
 
 ## 5. Case Study
