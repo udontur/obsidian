@@ -320,7 +320,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Tumor Suppressing Protein: Broken
 	- Oncoprotein: Always on
 
-
+### Cancer cells
+- Mutated DNA + 
 ## 5. Case Study
 ### HPV
 - Human Papillomavirus
