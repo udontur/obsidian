@@ -324,6 +324,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - A mass of cells that has not functions
 - **Bengin**: No harm, crowding the surrounding
 - **Malignant Tumor** ([[#Cancer cells]]): Harmful, Interfere surrounding function
+	- Metastasis: Cancer cells establish secondary tumor via bloodstream
+	- 
 
 ### Cancer cells
 - Mutated DNA + Broken substance + Harmful
