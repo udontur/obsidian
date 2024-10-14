@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a263f9af5fa2f1e7",
+        "id": "794d6806e444d24c",
         "type": "tabs",
         "children": [
           {
-            "id": "0457963f74b26b47",
+            "id": "bd3871feb2ec75ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,6 +159,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed19e4854f57c54c",
-  "lastOpenFiles": []
+  "active": "bd3871feb2ec75ea",
+  "lastOpenFiles": [
+    "snc2d.md"
+  ]
 }
