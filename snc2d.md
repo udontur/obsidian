@@ -304,20 +304,20 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - G1 and S: Organelle duplication
 - G2 and M: DNA replication
 - M: Spindle fibers
-
 ### Gene Mutation
 - Defintion: DNA broken (2 adjacent strand bond together)
 - Cause: UV light, Toxins, Carcinogen
 - Gene Mutation = Bad protein = Mutated cell
 - Checkpoints G2 and M can catch it
 - Group of Mutated cell = [[#Tumor]]
-
 ### Substance
 - **Healthy cells** 
 	- Tumor Suppressing Protein: Working
 	- Proto-oncoprotein: Mostly off
 - **Cancer cells**
-	- Tumor Suppressing Protein
+	- Tumor Suppressing Protein: Broken
+	- Oncoprotein: Always on
+
 
 ## 5. Case Study
 ### HPV
