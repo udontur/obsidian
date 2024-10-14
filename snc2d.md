@@ -377,17 +377,17 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ### Rule of Thumb
 1. Amount
-	1. 2 cells only
+	1. **2 cells**
 2. Tool
-	1. Pencil
-	2. Ruler
+	1. **Pencil**
+	2. **Ruler**
 3. Label line
-	1. No arrows
-	2. Straight
-	3. Untangled
-	4. Touch object
-	5. Right side
-	6. Visible organelles
+	1. **No arrows**
+	2. **Straight**
+	3. **Untangled**
+	4. **Touch object**
+	5. **Right side**
+	6. **Visible organelles**
 4. Title
-	1. Type of cell
-	2. Total magnification
+	1. **Cell type**
+	2. **Total magnification**
