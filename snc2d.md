@@ -343,7 +343,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ##### Cancer treatment
 - Surgery: Remove cancer cells
 - Chemotherapy: Slow down growth with drugs
-- 
+- Radiation: Ionizing radiation kill cancer cells
+- mRNA: Make protein that attack tumors
+- Biophotonics: Lazer light beam kill cancer
 
 
 ## 5. Case Study
