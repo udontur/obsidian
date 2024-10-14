@@ -376,4 +376,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- High: 40x
 
 ### Rule of Thumb
-1. 
+1. 2 cells only
+2. Pencil only
+3. No arrows
+4. Straight label line (Ruler)
+5. 
