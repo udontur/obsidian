@@ -345,7 +345,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Chemotherapy: Slow down growth with drugs
 - Radiation: Ionizing radiation kill cancer cells
 - mRNA: Make protein that attack tumors
-- Biophotonics: Lazer light beam kill cancer
+- Biophotonics: Lazer light beam to de
 
 
 ## 5. Case Study
