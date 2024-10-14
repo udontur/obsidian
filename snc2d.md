@@ -338,7 +338,12 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 4. Ultrasound: High frequency sound waves reflect soft tissues
 5. Magnetic Resonance Imaging: 3D image by strong magnetic field
 6. Self-examination
-7. 
+7. Doctor tests and examinations
+
+##### Cancer treatment
+- Surgery: Remove cancer cells
+- Chemotherapy: Slow down growth with drugs
+- 
 
 
 ## 5. Case Study
