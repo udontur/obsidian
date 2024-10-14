@@ -311,7 +311,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Gene Mutation = Bad protein = Mutated cell
 - Checkpoints G2 and M can catch it
 - Group of Mutated cell = [[#Tumor]]
-- 
+
+### Substance
+- **Healthy cells** 
 
 ## 5. Case Study
 ### HPV
