@@ -308,9 +308,11 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Defintion: DNA broken (2 adjacent strand bond together)
 - Cause: UV light, Toxins, Carcinogen
 - Gene Mutation = Bad protein = Mutated cell
-- Checkpoints G2 and M can catch it
+- Macrophages: Checkpoints G2 and M can catch it
 - Group of Mutated cell = [[#Tumor]]
 ### Substance
+- Tumor Suppressing Protein: p53
+- Oncoprotein: E6 and E7
 - **Healthy cells** 
 	- Tumor Suppressing Protein: Working
 	- Proto-oncoprotein: Mostly off
