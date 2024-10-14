@@ -300,7 +300,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - **Not** in Mitosis
 
 ## 4. Cancer
-
+### Cell Cycle Check
 
 ## 5. Case Study
 ### HPV
