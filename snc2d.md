@@ -367,3 +367,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 4. Accumulation of mutation causes Cancer
 
 ## 6. Microscope drawing
+#### Total magnification
+- $\text{Total}=\text{Oc}$
