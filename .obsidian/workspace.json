@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53b2396ee572cba4",
+        "id": "c865e8c79ae75c66",
         "type": "tabs",
         "children": [
           {
-            "id": "2af4840b06a5e29a",
+            "id": "3531b88c9000adda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "snc2d"
             }
-          },
-          {
-            "id": "374fcee275a27f75",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-21 17.22.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-21 17.22.41.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "374fcee275a27f75",
+  "active": "3531b88c9000adda",
   "lastOpenFiles": [
-    "snc2d.md",
     "Excalidraw/Drawing 2024-10-21 17.22.41.excalidraw.md",
+    "snc2d.md",
     "Excalidraw/Drawing 2024-10-21 17.18.36.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.11.29.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.14.38.excalidraw.md",
