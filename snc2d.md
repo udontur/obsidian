@@ -396,9 +396,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### 1. Red Blood
 ![[Drawing 2024-10-21 16.50.18.excalidraw]]
 - **Structure**
-	- Dimple in the middle holds oxygen
-	- Hemoglobin picks up oxygen
+	- Dimple in the middle holds $\text{O}_{2}$
+	- Hemoglobin picks up $\text{O}_{2}$
 	- No nucleus
 - **Function**
 	- Carries $\text{O}_{2}$ from lungs to body parts
 	- Carries $\text{CO}_{2}$ from body to lungs
+#### 2. 
