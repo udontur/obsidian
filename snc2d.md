@@ -415,4 +415,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### 3. Egg Cells
 ![[Drawing 2024-10-21 17.07.18.excalidraw]]
 - **Structure**
-	- Cytoplasm contains Yoll
+	- Cytoplasm contains Yolk for nutrition
+- **Function**
+	-  
