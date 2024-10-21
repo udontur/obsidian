@@ -458,4 +458,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Spider web like cell in the middle bone
 - **Function**
 	- Support body organs
-	- Osteoblasts: 
+	- Osteoblasts: Build bones by Calcium
+	- Osteoclasts
