@@ -392,4 +392,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	1. **Cell type**
 	2. **Total magnification**
 
-## 7. Specilized cells
+## 7. Specialized Cells
+#### 1. Red Blood
