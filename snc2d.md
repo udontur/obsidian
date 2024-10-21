@@ -438,4 +438,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### 6. Skin
 ![[Drawing 2024-10-21 17.18.36.excalidraw]]
 - **Structure**
-	- 
+	- Layers of flattened cells
+	- Fit tightly
+- **Function**
+	- Protect cells in the body
+	- Reduce water loss
+#### 7. Fat
