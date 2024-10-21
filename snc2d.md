@@ -407,7 +407,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - **Structure**
 	- Changes it's shape to eat the intruder
 	- Made from bone marrow
-	- In the blol
+	- In the bloodstream
 - **Function**
-	- Part of the immune system
-	- Protect our bodies from sickness
+	- Part of the Immune System
+	- Protect our bodies from Sickness and Pathogens
+		- Virus, Bacteria, Allergies, Cancer
