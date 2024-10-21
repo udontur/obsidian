@@ -468,4 +468,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- The bulbs are fat to insulate and increase rate of information
 - **Function**
 	- Carry nerve impulses
-#### 10. 
+#### 10. Ciliated Epithelial
