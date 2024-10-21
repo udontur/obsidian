@@ -454,4 +454,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### 8. Bone
 ![[Drawing 2024-10-21 17.27.37.excalidraw]]
 - **Structure**
-	- 
+	- Compact cells located on the surface
+	- Spider web like cell in the middle bone
+- **Function**
+	- Support body organs
+	- Osteoblasts:  
