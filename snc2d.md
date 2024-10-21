@@ -464,4 +464,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-10-21 17.44.39.excalidraw]]
 - **Structure**
 	- Very long cells
-	- Branches to communicate with other nerve
+	- Branches to communicate with other nerve cells
+	- The bulbs are fat to insulate and increase rate of information
+- **Function**
+	- Carry nerve impulses
+#### 10. 
