@@ -43,8 +43,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028a85fdf738447a",
+  "active": "bd3871feb2ec75ea",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-10-21 16.50.18.excalidraw.md",
     "snc2d.md",
