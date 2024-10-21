@@ -429,3 +429,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Complete the mother's genetic information
 #### 5. Skeletal muscle
 ![[Drawing 2024-10-21 17.14.38.excalidraw]]
+- **Structure**
+	- 
