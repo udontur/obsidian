@@ -476,4 +476,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - **Function**
 	- Prevent lung damage
 	- Cilia grip and trap dust and bacteria
-	- 
+#### 11. Root Hair
+**Structure**
+	
