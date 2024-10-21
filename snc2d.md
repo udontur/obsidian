@@ -404,5 +404,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Carries $\text{CO}_{2}$ from body to lungs
 #### 2. White Blood
 ![[Drawing 2024-10-21 16.56.47.excalidraw]]
-- Structure
+- **Structure**
 	- Changes it's shape to eat the intruder
+	- Only last 1 - 3 days
+	- Ma
