@@ -423,4 +423,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-10-21 17.11.29.excalidraw]]
 - **Structure**
 	- Long tail to swim
-	- Scissor enzy
+	- Scissor enzymes to get into [[#3. Egg]]
+	- Carries father's DNA
+- **Function**
+	- Complete the mother's genetic information
+5
