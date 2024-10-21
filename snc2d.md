@@ -459,4 +459,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - **Function**
 	- Support body organs
 	- Osteoblasts: Build bones by Calcium
-	- Osteoclasts
+	- Osteoclasts: Break bones --> reabsorb Calcium
