@@ -453,3 +453,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Body cushioning
 #### 8. Bone
 ![[Drawing 2024-10-21 17.27.37.excalidraw]]
+- **Structure**
+	- 
