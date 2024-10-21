@@ -479,4 +479,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### 11. Root Hair
 ![[Drawing 2024-10-21 17.58.41.excalidraw]]
 **Structure**
-- 
+- Large surface area from roots
+- Large v
