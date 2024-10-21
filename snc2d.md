@@ -413,3 +413,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Protect our bodies from Sickness and Pathogens
 		- Virus, Bacteria, Allergies, Cancer
 #### 3. Egg Cells
+![[Drawing 2024-10-21 17.07.18.excalidraw]]
