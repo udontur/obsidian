@@ -412,11 +412,12 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Part of the Immune System
 	- Protect our bodies from Sickness and Pathogens
 		- Virus, Bacteria, Allergies, Cancer
-#### 3. Egg Cells
+#### 3. Egg
 ![[Drawing 2024-10-21 17.07.18.excalidraw]]
 - **Structure**
 	- Cytoplasm contains Yolk (Nutrition) for Embryo 
 	- Carries mother's DNA
 - **Function**
 	- Grow a human baby
-### 
+#### 4. Sperm
+![[Drawing 2024-10-21 17.11.29.excalidraw]]
