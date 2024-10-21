@@ -434,4 +434,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Looks like large cables
 - **Function**
 	- Contract to make bones move
-	- Move your bones and 
+	- Move your bones and organs around
+#### 6. Skin
