@@ -436,3 +436,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Contract to make bones move
 	- Move your bones and organs around
 #### 6. Skin
+![[Drawing 2024-10-21 17.18.36.excalidraw]]
