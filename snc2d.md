@@ -484,4 +484,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- No chloroplast
 - **Function**
 	- Absorb water and minerals from soil
-	- Pass water and minerals to the plant
+	- Pass water and minerals to the plantw
