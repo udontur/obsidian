@@ -11,14 +11,12 @@
             "id": "bd2f8d3fd05e165a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "snc2d.md",
-                "mode": "preview",
-                "source": false
+                "file": "image_1.png"
               },
-              "icon": "lucide-file",
-              "title": "snc2d"
+              "icon": "lucide-image",
+              "title": "image_1"
             }
           }
         ]
@@ -178,8 +176,8 @@
   },
   "active": "bd2f8d3fd05e165a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-29 12.37.36.excalidraw.md",
     "snc2d.md",
+    "Excalidraw/Drawing 2024-10-29 12.37.36.excalidraw.md",
     "bep2d.md",
     "image_3.png",
     "image_2.png",
