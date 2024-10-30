@@ -11,12 +11,14 @@
             "id": "bd2f8d3fd05e165a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image_1.png"
+                "file": "snc2d.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "image_1"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ]
@@ -176,14 +178,14 @@
   },
   "active": "bd2f8d3fd05e165a",
   "lastOpenFiles": [
+    "image.png",
+    "image_2.png",
+    "image_3.png",
+    "image_1.png",
     "snc2d.md",
     "Excalidraw/Drawing 2024-10-29 12.37.36.excalidraw.md",
     "bep2d.md",
-    "image_3.png",
-    "image_2.png",
-    "image_1.png",
     "image_0.png",
-    "image.png",
     "Excalidraw/Drawing 2024-10-23 13.44.12.excalidraw.md",
     "Excalidraw/Drawing 2024-10-23 13.55.48.excalidraw.md",
     "2024-10-23.md",
