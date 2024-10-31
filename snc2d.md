@@ -486,7 +486,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Absorb water and minerals from soil
 	- Pass water and minerals to the plant
 
-## 8. Organs
+## 8. Introduction Organs
 #### Hierarchy of Life
 1. Cell
 2. Tissue
@@ -513,4 +513,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Smooth: Digestive involuntary
 	- Cardiac: Involuntary endurance for heart
 #### 4. Nervous
-- Communicate with ele signals
+- Communicate with electrical signals
+- Have webs that connect to other cells
