@@ -496,7 +496,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Tissue Type
 #### 1. Epithelial
 - Sheets of tightly packed cells
-- 
+- Layers
+	- One: Simple epithelium
+	- Multi: Stratified epithelium
+- Regular cell shape: Cuboidal, Squamous, Columnar
 #### 2. Connective
 #### 3. Muscle
 #### 4. Nervous
