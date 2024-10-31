@@ -507,9 +507,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Support and Protection
 - Example: Bone, Cartilage
 #### 3. Muscle
-- Contracting, move bones
+- Contracting only, move bones
 - Types
-	- Skeletal
-	- Smooth
-	- Cardi
+	- Skeletal: Contract to move bones
+	- Smooth: 
+	- Cardiac: Endurance for heart
 #### 4. Nervous
