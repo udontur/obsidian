@@ -494,4 +494,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 4. Organ System
 5. Organism
 ### Tissue Type
-###
+#### 1. Epithelial
+- Sheets of tightly packed cells
+- 
+#### 2. Connective
+#### 3. Muscle
+#### 4. Nervous
