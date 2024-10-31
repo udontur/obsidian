@@ -499,7 +499,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Layers
 	- One: Simple epithelium
 	- Multi: Stratified epithelium
-- Regular cell shape: Cuboidal, Squamous, Columnar
+- Regular cell shape
+	- Cuboidal
+	- Squamous
+	- Columnar
 #### 2. Connective
 #### 3. Muscle
 #### 4. Nervous
