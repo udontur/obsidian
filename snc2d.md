@@ -520,3 +520,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### 1. Musculoskeletal
 
 ![[Drawing 2024-10-31 21.24.27.excalidraw]]
+![[Drawing 2024-10-31 21.28.11.excalidraw]]
