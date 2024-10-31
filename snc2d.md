@@ -487,4 +487,11 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Pass water and minerals to the plant
 
 ## 8. Organs
-asdasd
+#### Hierarchy of Life
+1. Cell
+2. Tissue
+3. Organ
+4. Organ System
+5. Organism
+### Tissue Type
+###
