@@ -504,5 +504,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	- Squamous
 	- Columnar
 #### 2. Connective
+- Support and Protection
+- Example: Bone, Cartilage
 #### 3. Muscle
 #### 4. Nervous
