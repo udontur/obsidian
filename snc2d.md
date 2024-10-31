@@ -510,6 +510,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Contracting only, move bones
 - Types
 	- Skeletal: Contract to move bones
-	- Smooth: 
-	- Cardiac: Endurance for heart
+	- Smooth: Digestive involuntary
+	- Cardiac: Involuntary endurance for heart
 #### 4. Nervous
+- Communicate with ele signals
