@@ -519,3 +519,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ## 9. Organs
 ### 1. Musculoskeletal
 
+![[Drawing 2024-10-31 21.24.27.excalidraw]]
