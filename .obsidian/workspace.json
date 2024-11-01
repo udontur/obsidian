@@ -11,14 +11,12 @@
             "id": "bd2f8d3fd05e165a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "snc2d.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-10-31 21.44.27.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "snc2d"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-31 21.44.27.excalidraw"
             }
           }
         ]
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a10281f68e2d7786",
@@ -178,10 +175,11 @@
   },
   "active": "bd2f8d3fd05e165a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-05 11.54.34.excalidraw.md",
+    "snc2d.md",
     "Excalidraw/Drawing 2024-10-31 21.44.27.excalidraw.md",
     "imageedit_4_9866553966.jpg",
     "imageedit_3_3511930741.jpg",
-    "snc2d.md",
     "image_6.png",
     "Excalidraw/Drawing 2024-10-31 21.35.44.excalidraw.md",
     "image_5.png",
@@ -198,7 +196,6 @@
     "Excalidraw/Drawing 2024-10-23 13.44.12.excalidraw.md",
     "Excalidraw/Drawing 2024-10-23 13.55.48.excalidraw.md",
     "2024-10-23.md",
-    "Excalidraw/Drawing 2024-10-05 11.54.34.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.58.41.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.52.35.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.44.39.excalidraw.md",
