@@ -526,3 +526,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-10-31 21.35.44.excalidraw]]
 ### 4. Respiratory
 ![[Drawing 2024-10-31 21.44.27.excalidraw]]
+### 5. Circulatory
+![[Drawing 2024-11-01 09.25.06.excalidraw]]
