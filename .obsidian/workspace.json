@@ -25,12 +25,14 @@
             "id": "c3f909394034bb18",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image.png"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "image"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ],
@@ -190,6 +192,7 @@
   },
   "active": "c3f909394034bb18",
   "lastOpenFiles": [
+    "image/image.png",
     "snc2d.md",
     "image",
     "Excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
@@ -216,15 +219,14 @@
     "Excalidraw/Drawing 2024-10-21 17.22.41.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.27.37.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.52.35.excalidraw.md",
-    "Pasted image 20241101092653.png",
-    "image_7.png",
-    "imageedit_4_9866553966.jpg",
-    "imageedit_3_3511930741.jpg",
-    "image_6.png",
-    "image_5.png",
-    "image_4.png",
-    "imageedit_1_6937461171.png",
-    "Pasted image 20241031211611.png",
-    "image.png"
+    "image/Pasted image 20241101092653.png",
+    "image/image_7.png",
+    "image/imageedit_4_9866553966.jpg",
+    "image/imageedit_3_3511930741.jpg",
+    "image/image_6.png",
+    "image/image_5.png",
+    "image/image_4.png",
+    "image/imageedit_1_6937461171.png",
+    "image/Pasted image 20241031211611.png"
   ]
 }
