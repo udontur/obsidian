@@ -529,4 +529,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-11-01 09.25.06.excalidraw]]
 ### 6. Reproductive (M and F)
 # Unit 3: Physics
-Light optics
+Speed of Light: $C=$
