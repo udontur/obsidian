@@ -25,12 +25,12 @@
             "id": "c3f909394034bb18",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "image.png"
               },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "icon": "lucide-image",
+              "title": "image"
             }
           }
         ],
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +190,9 @@
   },
   "active": "c3f909394034bb18",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
     "snc2d.md",
+    "image",
+    "Excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
     "Excalidraw/Drawing 2024-10-31 21.24.27.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.44.39.excalidraw.md",
     "Excalidraw/Drawing 2024-10-21 17.58.41.excalidraw.md",
@@ -223,7 +225,6 @@
     "image_4.png",
     "imageedit_1_6937461171.png",
     "Pasted image 20241031211611.png",
-    "image.png",
-    "Excalidraw/Drawing 2024-10-23 13.55.48.excalidraw.md"
+    "image.png"
   ]
 }
