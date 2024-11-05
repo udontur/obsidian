@@ -532,4 +532,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 Speed of Light: $C=3\times 10^8$
 Light energy is transferred through Radiation (no need medium)
 Light = Electromagnetic Radiation
-![[Pasted image 20241105104353.png]]
+![[Drawing 2024-11-05 10.46.58.excalidraw]]

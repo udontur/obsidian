@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "snc2d"
             }
+          },
+          {
+            "id": "11b4853454b9e7ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-05 10.46.58.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3f909394034bb18",
+  "active": "11b4853454b9e7ff",
   "lastOpenFiles": [
+    "snc2d.md",
+    "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
+    "image.png",
     "Pasted image 20241105104353.png",
     "Pasted image 20241105104317.png",
     "image/image.png",
-    "snc2d.md",
     "image",
     "excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
     "excalidraw/Drawing 2024-10-31 21.24.27.excalidraw.md",
@@ -206,14 +221,11 @@
     "excalidraw/Drawing 2024-10-21 17.14.38.excalidraw.md",
     "excalidraw/Drawing 2024-10-21 17.22.41.excalidraw.md",
     "excalidraw/Drawing 2024-10-21 17.27.37.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.52.35.excalidraw.md",
     "image/Pasted image 20241101092653.png",
     "image/image_7.png",
     "image/imageedit_4_9866553966.jpg",
     "image/imageedit_3_3511930741.jpg",
     "image/image_6.png",
-    "image/image_5.png",
-    "image/image_4.png",
-    "image/imageedit_1_6937461171.png"
+    "image/image_5.png"
   ]
 }
