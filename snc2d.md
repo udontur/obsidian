@@ -531,5 +531,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 # Unit 3: Physics
 Speed of Light: $C=3\times 10^8$
 Light energy is transferred through Radiation (no need medium)
-Light = Electromagnetic wave
-$\ce{Na^1+}$
+Light = Electromagnetic Radiation
