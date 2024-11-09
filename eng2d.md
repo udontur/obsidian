@@ -54,8 +54,7 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Roaring 20s
 - 1919 World Series fix
 - Jazz age
-- Prohibitation age (bootlegging)
-- Temperance movement
+- Prohibition age (bootlegging); Cause: Temperance movem
 
 ### Bank of Words
 ##### Epitome
