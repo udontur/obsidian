@@ -39,7 +39,7 @@
 ##### Contemptuous
 - (Adjective): Showing or feeling lack of respect for someone or something. Looking down. 
 ##### Impersonal
-- 
+- (Adjective): Without human warmth; not friendly and without features that make people feel interested or involved.
 ##### Superiority complex
 - 
 #####
