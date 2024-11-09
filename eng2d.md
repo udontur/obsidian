@@ -29,9 +29,9 @@
 ##### the Sage
 - someone who has attained wisdom
 ##### Everyman
-- An ordinary or typical human being.
+- (Noun): An ordinary or typical human being.
 ##### Superficial
-- 
+- (Adjective): Existing or occurring at or on the surface.
 ##### Veal dreams
 - 
 ##### A man of substance
