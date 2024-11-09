@@ -37,9 +37,9 @@
 ##### A man of substance
 - (Noun): a person who is rich and powerful.
 ##### Contemptuous
-- (Adjective): Showing or feeling lack of respect for someone or something. 
+- (Adjective): Showing or feeling lack of respect for someone or something. Looking down. 
 ##### Impersonal
-- (Adjective): 
+- 
 ##### Superiority complex
 - 
 #####
