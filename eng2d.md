@@ -1,7 +1,7 @@
 ### Characters
 Nick (Narrator)
 - [[#Superiority complex]]
-- [[Egotistical]]
+- [[#Egotistical]]
 - Positioned as "[[the Sage]]"
 - [[Actuality]]: [[Everyman]]
 - Wants to be the storyteller
@@ -28,21 +28,21 @@ Jordan Baker
 - (Noun): a person or thing that is a perfect example of a particular quality or type.
 ##### Egotistical
 - 
-#####
+##### the Sage
 - 
-#####
+##### Actuality
 - 
-#####
+##### Everyman
 - 
-#####
+##### Superficial
 - 
-#####
+##### Veal dreams
 - 
-#####
+##### A man of substance
 - 
-#####
+##### Contemptuous
 - 
-#####
+##### Impersonal
 - 
 #####
 - 
