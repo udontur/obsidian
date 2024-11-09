@@ -21,7 +21,14 @@
 - Dishonest
 - [[#Egotistical]]
 ### Setting
-
+#### West Egg
+- New Money
+- Nick and Gatsby
+- Earn the money through hardwork
+#### East Egg
+- Old money
+- Diasy and Tom
+- Inhereted the moen=
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
