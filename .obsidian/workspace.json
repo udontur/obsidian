@@ -11,12 +11,14 @@
             "id": "92187f4707828ba7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md"
+                "file": "eng2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-05 10.46.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "eng2d"
             }
           }
         ]
@@ -175,11 +177,11 @@
   },
   "active": "92187f4707828ba7",
   "lastOpenFiles": [
+    "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/lewis-diagram-demo.md",
     "excalidraw/plant-cell.md",
     "bep2d.md",
     "excalidraw/Drawing 2024-10-31 21.44.27.excalidraw.md",
-    "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
     "excalidraw/Drawing 2024-10-31 21.28.11.excalidraw.md",
     "excalidraw/Drawing 2024-10-31 21.24.27.excalidraw.md",
