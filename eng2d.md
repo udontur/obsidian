@@ -44,9 +44,11 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Gatsby acts better than he is "putting on airs"
 - "Illusion of Grandeur"
 	- "He is the son of god": but Gatsby isn't
-	- "His parents imagination had never really accepted them as his parents at all"
+	- "His imagination had never really accepted them as his parents at all" Gatsby
 #### American Dream's Lie
-
+### Symbols
+- Green light --> Gatsby's dream (winning Daisy's love)
+- Yel
 
 ### Bank of Words
 ##### Epitome
