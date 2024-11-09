@@ -6,4 +6,6 @@ Nick (Narrator)
 - Actuality: Everyman
 - Wants to be the storyteller
 Gatsby
-- "Gre"
+- The "Great" man: Money, Power, Confidence
+- Had a dream that fueled him: Winning Daisy's love
+- Society was superficial. but Gatsby had real dreams 
