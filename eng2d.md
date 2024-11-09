@@ -20,6 +20,7 @@
 - [[#Impersonal]]
 - Dishonest
 - [[#Egotistical]]
+### Setting
 
 ### Bank of Words
 ##### Epitome
@@ -33,7 +34,7 @@
 ##### Superficial
 - (Adjective): Existing or occurring at or on the surface.
 ##### Veal dreams
-- 
+- ?????????????????????????????????????????
 ##### A man of substance
 - (Noun): a person who is rich and powerful.
 ##### Contemptuous
@@ -41,7 +42,7 @@
 ##### Impersonal
 - (Adjective): Without human warmth; not friendly and without features that make people feel interested or involved.
 ##### Superiority complex
-- 
+- (Noun): If you have a superiority complex, you believe that you are better, cleverer, or more important than other people.
 #####
 - 
 #####
