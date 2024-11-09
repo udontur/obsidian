@@ -40,6 +40,7 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 #### Appearance vs Reality
 #### American Dream's Lie
 
+
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
