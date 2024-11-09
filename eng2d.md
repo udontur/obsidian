@@ -10,4 +10,4 @@ Gatsby
 - Had a dream that fueled him: Winning Daisy's love
 - Society was superficial. but Gatsby had real dreams -> a man of substance
 Tom Buchanan
-- 
+- Ep
