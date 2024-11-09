@@ -11,7 +11,17 @@ Gatsby
 - Society was superficial. but Gatsby had real dreams -> a man of substance
 Tom Buchanan
 - [[#Epitome]] of a 1920s man 
-- 
+- Have: Money, Car, Wife, Strong
+
+Daisy Buchanan
+- Superficial
+
+Jordan Baker
+- Contemptuous
+- Responded absently
+- Impersonal
+- Dishonest
+- Self-Centered
 
 ### Bank of Words
 ##### Epitome
