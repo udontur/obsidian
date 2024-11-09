@@ -6,7 +6,7 @@
 - Reality: [[#Everyman]]
 - Wants to be the storyteller
 ##### Gatsby
-- The anti-hero: 
+- The anti-hero: Tries to do the right thing in their own way
 - The "Great" man: Money, Power, Confidence
 - Had a dream that fueled him: Winning Daisy's love
 - Society was [[#superficial]]. but Gatsby had [[#veal dreams]] -> [[#a man of substance]]
