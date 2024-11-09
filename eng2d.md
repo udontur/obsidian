@@ -27,8 +27,10 @@
 - Earn the money through hardwork
 #### East Egg
 - Old money
-- Diasy and Tom
-- Inhereted the moen=
+- Daisy and Tom
+- Inhereted the money
+
+West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay)
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
