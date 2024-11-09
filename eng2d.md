@@ -41,7 +41,9 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Gatsby pretending to read real books: ""
 - Gatsby “Reassurance, concentrated, picks words with care”
 - Gatsby hides from his own past
-- 
+- Gatsby acts better than he is "putting on airs"
+- "Illusion of Grandeur"
+	- "He is the son of god"
 #### American Dream's Lie
 
 
