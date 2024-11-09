@@ -1,25 +1,23 @@
 ### Characters
-Nick (Narrator)
+##### Nick (Narrator)
 - [[#Superiority complex]]
 - [[#Egotistical]]
 - Positioned as "[[#the Sage]]"
 - [[#Actuality]]: [[#Everyman]]
 - Wants to be the storyteller
-Gatsby
+##### Gatsby
 - The "Great" man: Money, Power, Confidence
 - Had a dream that fueled him: Winning Daisy's love
 - Society was [[#superficial]]. but Gatsby had [[#veal dreams]] -> [[#a man of substance]]
-Tom Buchanan
+##### Tom Buchanan
 - [[#Epitome]] of a 1920s man 
 - Have: Money, Car, Wife, Strong
-
-Daisy Buchanan
+##### Daisy Buchanan
 - [[#Superficial]]
-
-Jordan Baker
-- [[Contemptuous]]
+##### Jordan Baker
+- [[#Contemptuous]]
 - Responded absently
-- [[Impersonal]]
+- [[#Impersonal]]
 - Dishonest
 - Self-Centered
 
