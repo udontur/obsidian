@@ -33,7 +33,7 @@
 ##### Superficial
 - (Adjective): Existing or occurring at or on the surface.
 ##### Veal dreams
-- 
+- a person who is rich and powerful.
 ##### A man of substance
 - 
 ##### Contemptuous
