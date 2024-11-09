@@ -26,4 +26,21 @@ Jordan Baker
 ### Bank of Words
 ##### Epitome
 - (Noun): a person or thing that is a perfect example of a particular quality or type.
-$\hat{w} \frac{x}{y}\hat{w}$
+#####
+- 
+#####
+- 
+#####
+- 
+#####
+- 
+#####
+- 
+#####
+- 
+#####
+- 
+#####
+- 
+#####
+- 
