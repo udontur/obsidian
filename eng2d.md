@@ -10,9 +10,9 @@ Gatsby
 - Had a dream that fueled him: Winning Daisy's love
 - Society was superficial. but Gatsby had real dreams -> a man of substance
 Tom Buchanan
-- Epitome of a 1920s man 
+- [Epitome] of a 1920s man 
 
 
 ### Word Bank
 ##### Epitome
-- 
+- (Noun): a person or thing that is a perfect example of a particular quality or type.
