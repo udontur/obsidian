@@ -44,7 +44,7 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Gatsby acts better than he is "putting on airs"
 - "Illusion of Grandeur"
 	- "He is the son of god": but Gatsby isn't
-	- 
+	- "His parents imagination had never really accepted them as his parents at all"
 #### American Dream's Lie
 
 
