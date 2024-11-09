@@ -23,21 +23,21 @@
 
 ### Bank of Words
 ##### Epitome
-- (Noun): a person or thing that is a perfect example of a particular quality or type.
+- (Noun): A person or thing that is a perfect example of a particular quality or type.
 ##### Egotistical
-- (Adjective): excessively conceited or absorbed in oneself; self-centred.
+- (Adjective): Excessively conceited or absorbed in oneself; self-centred.
 ##### the Sage
-- someone who has attained wisdom
+- (Noun): Someone who has attained wisdom. 
 ##### Everyman
 - (Noun): An ordinary or typical human being.
 ##### Superficial
 - (Adjective): Existing or occurring at or on the surface.
 ##### Veal dreams
-- a person who is rich and powerful.
+- 
 ##### A man of substance
-- 
+- (Noun): a person who is rich and powerful.
 ##### Contemptuous
-- 
+- (Adjective): 
 ##### Impersonal
 - 
 ##### Superiority complex
