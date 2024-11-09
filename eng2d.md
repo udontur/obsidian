@@ -3,7 +3,7 @@
 - [[#Superiority complex]]
 - [[#Egotistical]]
 - Positioned as "[[#the Sage]]"
-- [[#Actuality]]: [[#Everyman]]
+- Reality: [[#Everyman]]
 - Wants to be the storyteller
 ##### Gatsby
 - The "Great" man: Money, Power, Confidence
@@ -29,7 +29,7 @@
 ##### the Sage
 - someone who has attained wisdom
 ##### Everyman
-- 
+- An ordinary or typical human being.
 ##### Superficial
 - 
 ##### Veal dreams
