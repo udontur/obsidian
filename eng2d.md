@@ -19,7 +19,7 @@
 - Responded absently
 - [[#Impersonal]]
 - Dishonest
-- Self-Centered
+- [[#Egotistical]]
 
 ### Bank of Words
 ##### Epitome
@@ -27,9 +27,7 @@
 ##### Egotistical
 - (Adjective): excessively conceited or absorbed in oneself; self-centred.
 ##### the Sage
-- 
-##### Actuality
-- 
+- someone who has attained wisdom
 ##### Everyman
 - 
 ##### Superficial
