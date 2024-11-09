@@ -6,6 +6,7 @@
 - Reality: [[#Everyman]]
 - Wants to be the storyteller
 ##### Gatsby
+- The anti-hero: 
 - The "Great" man: Money, Power, Confidence
 - Had a dream that fueled him: Winning Daisy's love
 - Society was [[#superficial]]. but Gatsby had [[#veal dreams]] -> [[#a man of substance]]
@@ -54,7 +55,8 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Roaring 20s
 - 1919 World Series fix
 - Jazz age
-- Prohibition age (bootlegging); Cause: Temperance movem
+- Prohibition age (bootlegging); Cause: Temperance movement
+
 
 ### Bank of Words
 ##### Epitome
