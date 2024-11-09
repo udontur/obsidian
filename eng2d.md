@@ -36,7 +36,9 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 #### American Dream
 #### Social Class
 #### Corruption of the American Dream
-#### 
+#### Superficiality of High Society
+#### Appearance vs Reality
+#### American Dream's Lie
 
 ### Bank of Words
 ##### Epitome
