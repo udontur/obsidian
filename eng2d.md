@@ -38,7 +38,10 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 #### Corruption of the American Dream
 #### Superficiality of High Society
 #### Appearance vs Reality
-- Quote: ""
+- Gatsby pretending to read real books: ""
+- Gatsby “Reassurance, concentrated, picks words with care”
+- Gatsby hides from his own past
+- 
 #### American Dream's Lie
 
 
