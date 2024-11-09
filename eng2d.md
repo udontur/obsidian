@@ -33,7 +33,10 @@
 West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay)
 
 ### Themes
-
+#### American Dream
+#### Social Class
+#### Corruption of the American Dream
+#### 
 
 ### Bank of Words
 ##### Epitome
