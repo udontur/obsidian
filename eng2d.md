@@ -25,7 +25,7 @@
 ##### Epitome
 - (Noun): a person or thing that is a perfect example of a particular quality or type.
 ##### Egotistical
-- 
+- (Adjective): excessively conceited or absorbed in oneself; self-centred.
 ##### the Sage
 - 
 ##### Actuality
