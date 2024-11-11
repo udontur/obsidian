@@ -547,4 +547,4 @@ $\uparrow$ Wave Length $=$ $\uparrow$ Frequency
 $\uparrow$ Amplitude $=$ $\uparrow$ Energy
 
 ### Electromagnetic Spectrum
-]]![http://www.kollewin.com/EX/09-15-03/electromagnetic-spectrum.jpg](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfQVVtKeM_T4qDP6SPcnrnOWVJuvW5LlVT6baFlxOA_u-AxjPk225oI-lY_MQBrry9uJ28VS-Ojz5ywFNDMWWGxwjfmzK8MSG8IwFd1KK0kx0SdmOo6MhBHfmvyAn78DgjSUsLnfQ=s2048?key=DVkRpuqfaxSmpTs87tWhKR7-)
+![[Pasted image 20241111144758.png]]
