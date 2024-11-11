@@ -538,3 +538,5 @@ Light travels significantly faster than sound.
 - Any physical substance that acts as a carrier for transmission of energy
 
 #### Electromagnetic Wave
+- A wave that has both electric and mag
+![[Drawing 2024-11-11 14.00.58.excalidraw]]
