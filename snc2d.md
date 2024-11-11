@@ -543,7 +543,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Does not require a [[#medium]]
 - Travels at the [[#Speed of Light]]
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
-
+$\uparrow$ 
 
 ### Electromagnetic Spectrum
 ADD WAVES SPECTRUM

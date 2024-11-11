@@ -11,12 +11,14 @@
             "id": "92187f4707828ba7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-11 14.00.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ]
@@ -175,8 +177,8 @@
   },
   "active": "92187f4707828ba7",
   "lastOpenFiles": [
-    "snc2d.md",
     "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
+    "snc2d.md",
     "eng2d.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/lewis-diagram-demo.md",
