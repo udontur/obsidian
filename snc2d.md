@@ -548,3 +548,11 @@ $\uparrow$ Amplitude $=$ $\uparrow$ Energy
 
 ### Electromagnetic Spectrum
 ![[Pasted image 20241111144758.png]]
+
+##### Visible Light
+- Red
+- Orange
+- Yellow
+- Green
+- Blue
+- Indigo
