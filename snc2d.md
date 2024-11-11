@@ -532,7 +532,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 Speed of [[#Light]]: $C=3\times 10^8$
 Light travels significantly faster than sound. 
 ###### Light
+- [[#Electromagnetic Wave]]
 - Energy transmitted through [[#Radiation]] ([[#Medium]] not required)
 ###### Medium
 - Any physical substance that acts as a carrier for transmission of energy
 
+#### Electromagnetic Wave
