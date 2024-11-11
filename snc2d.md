@@ -550,9 +550,11 @@ $\uparrow$ Amplitude $=$ $\uparrow$ Energy
 ![[Pasted image 20241111144758.png]]
 
 ##### Visible Light
-- Red
+- **ROY G BIV**
+- Red (Lowest frequency, 400nm)
 - Orange
 - Yellow
 - Green
 - Blue
 - Indigo
+- Violet
