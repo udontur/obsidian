@@ -557,4 +557,4 @@ $\uparrow$ Amplitude $=$ $\uparrow$ Energy
 - Green
 - Blue
 - Indigo
-- Violet
+- Violet (Highest frequency, )
