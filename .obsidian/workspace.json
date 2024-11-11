@@ -33,7 +33,8 @@
               "title": "Drawing 2024-11-11 14.00.58.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a8dc5dc3344572",
+  "active": "717c92b37f520179",
   "lastOpenFiles": [
-    "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "snc2d.md",
+    "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "eng2d.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/lewis-diagram-demo.md",
