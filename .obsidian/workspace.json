@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "snc2d"
             }
+          },
+          {
+            "id": "1b05b2e1be995ae6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-11 14.37.53.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92187f4707828ba7",
+  "active": "1b05b2e1be995ae6",
   "lastOpenFiles": [
-    "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "snc2d.md",
+    "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
+    "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "eng2d.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/lewis-diagram-demo.md",
@@ -202,7 +216,6 @@
     "excalidraw/Drawing 2024-10-21 16.56.47.excalidraw.md",
     "excalidraw/Drawing 2024-10-21 16.50.18.excalidraw.md",
     "excalidraw/Drawing 2024-10-21 16.50.09.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 14.07.07.excalidraw.md",
     "image/Pasted image 20241105104353.png",
     "image/Pasted image 20241105104317.png",
     "image/Pasted image 20241101092653.png",
