@@ -530,6 +530,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### 6. Reproductive (M and F)
 # Unit 3: Physics
 Speed of Light: $C=3\times 10^8$
-Light energy is transferred through Radiation (no need medium)
-Light: Energy transmitted through radiation (medium not required)
-Medium: any phsyical substance that acts as a carrier for transmission of energy
+###### Light
+- Energy transmitted through [[#Radiation]] ([[#Medium]]not required)
+###### Medium
+- Any physical substance that acts as a carrier for transmission of energy
