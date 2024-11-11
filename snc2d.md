@@ -529,8 +529,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-11-01 09.25.06.excalidraw]]
 ### 6. Reproductive (M and F)
 # Unit 3: Physics
-Speed of Light: $C=3\times 10^8$
+Speed of [[#Light]]: $C=3\times 10^8$
+Light travels significantly faster than sound. 
 ###### Light
-- Energy transmitted through [[#Radiation]] ([[#Medium]]not required)
+- Energy transmitted through [[#Radiation]] ([[#Medium]] not required)
 ###### Medium
 - Any physical substance that acts as a carrier for transmission of energy
+
