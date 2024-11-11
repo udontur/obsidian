@@ -548,7 +548,8 @@ $\uparrow$ Amplitude $=$ $\uparrow$ Energy
 
 ### Electromagnetic Spectrum
 ![[Pasted image 20241111144758.png]]
-
+ADD EXAMPLE
+ADD SPACE EX
 ##### Visible Light
 - **ROY G BIV**
 - Red (Lowest frequency, 400nm)
