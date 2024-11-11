@@ -541,4 +541,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - A wave that has both electric and magnetic parts
 - Does not require a [[#medium]]
 - Travels at the [[#Speed of Light]]
-![[Drawing 2024-11-11 14.00.58.excalidraw]]
+![[Drawing 2024-11-11 14.00.58.excalidraw]] ADD MORE
+
+### Electromagnetic Spectrum
+ADD WAVES SPECTRUM
