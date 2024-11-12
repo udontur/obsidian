@@ -566,4 +566,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 4. Green
 5. Blue
 6. Indigo
-7. Violet ($\downarrow$ wavelength, $\uparrow$ frequency,)
+7. Violet ($\downarrow$ wavelength, $\uparrow$ frequency)
