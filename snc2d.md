@@ -532,8 +532,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Light
 - [[#Electromagnetic Wave]] $=$ Energy
 - Energy transmitted through [[#Radiation]] ([[#Medium]] is NOT required)
-- $C=3\times 10^8\;\text{ms}^{-1}$ (Significantly faster than sound)???
-- $0.0035\%$ are visible light???
+- $C=3\times 10^8\;\text{ms}^{-1}$ (Significantly faster than sound)
 ###### Medium
 - Physical carrier for transmitting energy
 ###### Visible Light
@@ -551,12 +550,12 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[snc2d-]]
 ##### Example
 - Astronomy: Analyze data about the universe
-- Radio: Phone, Radar, TV, Radio
+- Radio: Phone, Radar
 - Microwave: Microwaves
-- Infrared: Remote, CCTV, Heat detection, Heater
-- Visible: Screen, Laser, Lighting
+- Infrared: Remote,  Heat detection
+- Visible: Screen, Lighting
 - Ultraviolet: Disinfection
-- X-Ray: Medical scan, Security, Cancer treatment
+- X-Ray: Medical scan, Security scan
 - Gamma Ray: Cancer treatment
 ##### Visible Light
 - **ROY G BIV**
