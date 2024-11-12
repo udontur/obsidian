@@ -11,7 +11,7 @@
 - Draws the valance electrons only
 - The dots are the electrons
 - The lines are the bonds (2 electrons)
-- How to draw: ![[lewis-diagram-demo]]
+- How to draw: ![[snc2d-]]
 ## Naming bonds
 ### Terms
 - Molecule: 2+ same or different atoms chemically bonded
@@ -246,11 +246,11 @@ Flagellum: Tail with motor, for moving
 - Made of protein
 - Produced by [[#Centrioles]]
 ### Plant Cell Diagram
-![[plant-cell]]
+![[snc2d-plantcell]]
 
 ### Animal Cell Diagram
 
-![[animal-cell]]
+![[snc2d-animalcell]]
 
 
 
