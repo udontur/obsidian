@@ -555,10 +555,10 @@ ADD EXAMPLE
 ADD SPACE EXAMPLEw
 ##### Visible Light
 - **ROY G BIV**
-- Red (Lowest frequency, 400nm)
+- Red (Lowest frequency, highest wave )
 - Orange
 - Yellow
 - Green
 - Blue
 - Indigo
-- Violet (Highest frequency, )
+- Violet (Highest frequency, 400nm)
