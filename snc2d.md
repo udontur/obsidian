@@ -529,18 +529,19 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-11-01 09.25.06.excalidraw]]
 ### 6. Reproductive (M and F)
 # Unit 3: Physics
+## 1. Introduction
 ### Light
 - [[#Electromagnetic Wave]] $=$ Energy
 - Energy transmitted through [[#Radiation]] ([[#Medium]] is NOT required)
 - $C=3\times 10^8\;\text{ms}^{-1}$ (Significantly faster than sound)
-###### Medium
+#### Medium
 - Physical carrier for transmitting energy
-###### Visible Light
+#### Visible Light
 - Small part of the [[#Electromagnetic Spectrum]]
 - Detectable by the human eye
-###### Radiation
+#### Radiation
 -  Energy transmission that does not require a [[#Medium]]
-#### Electromagnetic Wave
+### Electromagnetic Wave
 - A Wave: Electric $+$ Magnetic
 - $\uparrow$ Wave Length $=$ $\downarrow$ Frequency
 - $\uparrow$ Amplitude $=$ $\uparrow$ Energy
@@ -548,7 +549,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
 ### Electromagnetic Spectrum
 ![[snc2d-]]
-##### Example
+#### Example
 - Astronomy: Analyze data about the universe
 - Radio: Phone, Radar
 - Microwave: Microwaves
@@ -557,7 +558,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Ultraviolet: Disinfection
 - X-Ray: Medical scan, Security scan
 - Gamma Ray: Cancer treatment
-##### Visible Light
+#### Visible Light
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
 2. Orange
