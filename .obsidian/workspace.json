@@ -11,12 +11,14 @@
             "id": "92187f4707828ba7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/snc2d-.md"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "snc2d-"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excalidraw/snc2d-.md"
+                "file": "snc2d.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of snc2d-"
+              "title": "Outline of snc2d"
             }
           },
           {
@@ -173,34 +175,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed19e4854f57c54c",
+  "active": "92187f4707828ba7",
   "lastOpenFiles": [
-    "excalidraw/snc2d-lewis.md",
-    "excalidraw/snc2d-plantcell.md",
-    "excalidraw/snc2d-animalcell.md",
-    "excalidraw/Drawing 2024-10-05 11.54.34.excalidraw.md",
+    "eng2d.md",
+    "bep2d.md",
+    "draw/snc2d-plantcell.md",
+    "draw/snc2d-.md",
+    "draw/snc2d-lewis.md",
+    "draw/snc2d-animalcell.md",
+    "draw/Drawing 2024-10-05 11.54.34.excalidraw.md",
     "excalidraw/slkjsdlfjk.md",
-    "excalidraw/Drawing 2024-10-31 21.35.44.excalidraw.md",
+    "draw/Drawing 2024-10-31 21.35.44.excalidraw.md",
     "excalidraw/Drawing 2024-11-12 22.01.35.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 16.56.47.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 16.50.18.excalidraw.md",
-    "excalidraw/Drawing 2024-10-31 21.44.27.excalidraw.md",
-    "excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
-    "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
-    "excalidraw/snc2d-.md",
+    "draw/Drawing 2024-10-21 16.56.47.excalidraw.md",
+    "draw/Drawing 2024-10-21 16.50.18.excalidraw.md",
+    "draw/Drawing 2024-10-31 21.44.27.excalidraw.md",
+    "draw/Drawing 2024-11-01 09.25.06.excalidraw.md",
+    "draw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
-    "excalidraw/Drawing 2024-10-31 21.28.11.excalidraw.md",
-    "excalidraw/Drawing 2024-10-31 21.24.27.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.58.41.excalidraw.md",
+    "draw/Drawing 2024-10-31 21.28.11.excalidraw.md",
+    "draw/Drawing 2024-10-31 21.24.27.excalidraw.md",
+    "draw/Drawing 2024-10-21 17.58.41.excalidraw.md",
     "excalidraw/Drawing 2024-10-29 12.37.36.excalidraw.md",
     "excalidraw/Drawing 2024-10-23 13.44.12.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.52.35.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.44.39.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.27.37.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.22.41.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.18.36.excalidraw.md",
-    "excalidraw/Drawing 2024-10-21 17.14.38.excalidraw.md",
+    "draw/Drawing 2024-10-21 17.52.35.excalidraw.md",
+    "draw/Drawing 2024-10-21 17.44.39.excalidraw.md",
+    "draw/Drawing 2024-10-21 17.27.37.excalidraw.md",
+    "draw/Drawing 2024-10-21 17.22.41.excalidraw.md",
     "image/snc2d-nerve.png",
     "image/snc2d-digest.png",
     "image/snc2d-heart.png",
