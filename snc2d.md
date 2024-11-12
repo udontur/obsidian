@@ -552,7 +552,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ##### Example
 - All useful in Astronomy
 - Radio: Phone, Radar, TV, Radio
-- Microwave: Microwaves, 
+- Microwave: Microwaves
+- Infra
 ##### Visible Light
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
