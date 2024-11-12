@@ -537,7 +537,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ###### Medium
 - Any physical substance that acts as a carrier for transmission of energy
 ###### Visible Light
-- Part of the electromagnetic spectrum that the human eye can detect
+- Small part of the [[#Electromagnetic Spectrum]]
+- Detectable by the human eye
 ###### Radiation
 -  Energy transmission that does not require a [[#Medium]]
 #### Electromagnetic Wave
