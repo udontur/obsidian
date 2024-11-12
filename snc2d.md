@@ -550,8 +550,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Electromagnetic Spectrum
 ![[Drawing 2024-11-12 09.50.13.excalidraw]]
 ##### Example
-- **ROY G BIV**
-1. Red: 
+- All useful in Astronomy
+- Radio: Phone, Radar, TV, Radio
 ##### Visible Light
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
