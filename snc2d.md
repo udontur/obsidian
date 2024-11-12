@@ -552,7 +552,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### Electromagnetic Wave Examples
 - Astronomy: Analyze data about the universe
 
-| Wave        | Examples                    |
+| Waves       | Examples                    |
 | ----------- | --------------------------- |
 | Radio       | Phone, Radar                |
 | Microwave   | Microwaves                  |
@@ -562,12 +562,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 | X-Ray       | Medical scan, Security scan |
 | Gamma Ray   | Cancer treatment            |
 
-- Microwave: Microwaves
-- Infrared: Remote,  Heat detection
-- Visible: Screen, Lighting
-- Ultraviolet: Disinfection
-- X-Ray: Medical scan, Security scan
-- Gamma Ray: Cancer treatment
 #### Visible Light Colors
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
