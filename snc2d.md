@@ -550,13 +550,14 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Electromagnetic Spectrum
 ![[Drawing 2024-11-12 09.50.13.excalidraw]]
 ##### Example
-- All useful in Astronomy
+- Astronomical discovery
 - Radio: Phone, Radar, TV, Radio
 - Microwave: Microwaves
-- Infrared: Remote, CCTV, Heatmeter, Heater
+- Infrared: Remote, CCTV, Heat detection, Heater
 - Visible: Screen, Laser, Lighting
 - Ultraviolet: Disinfection
-- X-Ray: Medical scan, 
+- X-Ray: Medical scan, Security, Cancer treatment
+- Gamma Ray: Cancer treatment
 ##### Visible Light
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
