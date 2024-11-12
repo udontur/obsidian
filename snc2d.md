@@ -549,8 +549,9 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
 ### Electromagnetic Spectrum
 ![[snc2d-]]
-#### Example
+#### Electromagnetic Wave Examples
 - Astronomy: Analyze data about the universe
+|
 - Radio: Phone, Radar
 - Microwave: Microwaves
 - Infrared: Remote,  Heat detection
@@ -558,7 +559,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Ultraviolet: Disinfection
 - X-Ray: Medical scan, Security scan
 - Gamma Ray: Cancer treatment
-#### Visible Light
+#### Visible Light Colors
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
 2. Orange
