@@ -11,12 +11,14 @@
             "id": "92187f4707828ba7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/image.png"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "image"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ]
@@ -173,23 +175,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed19e4854f57c54c",
+  "active": "92187f4707828ba7",
   "lastOpenFiles": [
-    "image/snc2d-visiblelight.png",
-    "bep2d.md",
-    "image/Vector 18(3).png",
+    "eng2d.md",
+    "image/image_0.png",
     "snc2d.md",
+    "image/image 2.png",
+    "image/image 1.png",
+    "image/image.png",
+    "bep2d.md",
+    "image/snc2d-visiblelight.png",
+    "image/Vector 18(3).png",
     "excalidraw/Drawing 2024-11-12 09.50.13.excalidraw.md",
     "excalidraw/Drawing 2024-10-05 11.54.34.excalidraw.md",
     "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "Vector 18.png",
-    "image/image 2.png",
     "image/Pasted image 20241111144758.png",
     "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
     "image/image_2 1.png",
     "image/image_1 1.png",
-    "image/image_0 1.png",
-    "eng2d.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/lewis-diagram-demo.md",
     "excalidraw/plant-cell.md",
@@ -208,8 +212,6 @@
     "excalidraw/Drawing 2024-10-21 17.14.38.excalidraw.md",
     "excalidraw/Drawing 2024-10-21 17.11.29.excalidraw.md",
     "excalidraw/Drawing 2024-10-21 17.07.18.excalidraw.md",
-    "image/Pasted image 20241105104353.png",
-    "image/Pasted image 20241105104317.png",
     "image"
   ]
 }
