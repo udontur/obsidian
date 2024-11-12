@@ -553,10 +553,10 @@ ADD EXAMPLE
 ADD SPACE EXAMPLE
 ##### Visible Light
 - **ROY G BIV**
-- Red ($\downarrow$ frequency, $\uparrow$ wavelength )
+- Red ($\uparrow$ wavelength, $\downarrow$ frequency)
 - Orange
 - Yellow
 - Green
 - Blue
 - Indigo
-- Violet ($\uparrow$ frequency, $\downarrow$ wavelength)
+- Violet ( $\downarrow$ wavelength, $\uparrow$ frequency,)
