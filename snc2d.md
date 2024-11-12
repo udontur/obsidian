@@ -551,7 +551,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ### Electromagnetic Spectrum
 
-![[Pasted image 20241111144758.png]]
+![[Drawing 2024-11-12 09.50.13.excalidraw]]
 ADD EXAMPLE
 ADD SPACE EXAMPLE
 ##### Visible Light
