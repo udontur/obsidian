@@ -530,7 +530,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### 6. Reproductive (M and F)
 # Unit 3: Physics
 ###### Light
-- [[#Electromagnetic Wave]]
+- [[#Electromagnetic Wave]] $=$ Energy
 - Energy transmitted through [[#Radiation]] ([[#Medium]] is NOT required)
 - $C=3\times 10^8$ (Significantly faster than sound)???
 - $0.0035\%$ are visible light???
@@ -542,7 +542,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ###### Radiation
 -  Energy transmission that does not require a [[#Medium]]
 #### Electromagnetic Wave
-- A wave that has both electric and magnetic parts
+- Wave $=$ electric and magnetic parts
 - Does not require a [[#medium]]
 - Travels at the speed of light
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
