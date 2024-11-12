@@ -531,13 +531,15 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 # Unit 3: Physics
 ###### Light
 - [[#Electromagnetic Wave]]
-- Energy transmitted through [[#Radiation]] ([[#Medium]] not required)
+- Energy transmitted through [[#Radiation]] ([[#Medium]] is NOT required)
 - $C=3\times 10^8$ (Significantly faster than sound)???
 - $0.0035\%$ are visible light???
 ###### Medium
 - Any physical substance that acts as a carrier for transmission of energy
 ###### Visible Light
 - Part of the electromagnetic spectrum that the human eye can detect
+###### Radiation
+- 
 #### Electromagnetic Wave
 - A wave that has both electric and magnetic parts
 - Does not require a [[#medium]]
