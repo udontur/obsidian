@@ -551,8 +551,16 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[snc2d-]]
 #### Electromagnetic Wave Examples
 - Astronomy: Analyze data about the universe
-|
-- Radio: Phone, Radar
+
+| Wave      | Examples     |
+| --------- | ------------ |
+| Radio     | Phone, Radar |
+| Microwave | Microwaves   |
+| Infrared  | Remo         |
+|           |              |
+|           |              |
+|           |              |
+
 - Microwave: Microwaves
 - Infrared: Remote,  Heat detection
 - Visible: Screen, Lighting
