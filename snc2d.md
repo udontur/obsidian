@@ -535,7 +535,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - $C=3\times 10^8$ (Significantly faster than sound)???
 - $0.0035\%$ are visible light???
 ###### Medium
-- Any physical substance that acts as a carrier for transmission of energy
+- Physical carrier for transmitting energy
 ###### Visible Light
 - Small part of the [[#Electromagnetic Spectrum]]
 - Detectable by the human eye
