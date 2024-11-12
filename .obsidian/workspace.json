@@ -25,12 +25,14 @@
             "id": "c8f60bab43b134e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/Drawing 2024-11-12 09.50.13.excalidraw.md"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-12 09.50.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ],
@@ -190,10 +192,10 @@
   },
   "active": "c8f60bab43b134e1",
   "lastOpenFiles": [
-    "Vector 18(3).png",
-    "Vector 18.png",
-    "snc2d.md",
     "excalidraw/Drawing 2024-11-12 09.50.13.excalidraw.md",
+    "Vector 18.png",
+    "Vector 18(3).png",
+    "snc2d.md",
     "image/image 2.png",
     "image/Pasted image 20241111144758.png",
     "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
@@ -225,7 +227,6 @@
     "image/Pasted image 20241105104353.png",
     "image/Pasted image 20241105104317.png",
     "image/Pasted image 20241101092653.png",
-    "image/imageedit_4_9866553966.jpg",
     "image"
   ]
 }
