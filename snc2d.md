@@ -552,7 +552,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Electromagnetic Spectrum
 ![[Pasted image 20241111144758.png]]
 ADD EXAMPLE
-ADD SPACE EXAMPLEw
+ADD SPACE EXAMPLE
 ##### Visible Light
 - **ROY G BIV**
 - Red (Lowest frequency, highest wave )
