@@ -539,7 +539,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ###### Visible Light
 - Part of the electromagnetic spectrum that the human eye can detect
 ###### Radiation
-- 
+-  Energy
 #### Electromagnetic Wave
 - A wave that has both electric and magnetic parts
 - Does not require a [[#medium]]
