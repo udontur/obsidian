@@ -553,7 +553,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - All useful in Astronomy
 - Radio: Phone, Radar, TV, Radio
 - Microwave: Microwaves
-- Infrared: Remote, Laser, Heatmeter, Heater
+- Infrared: Remote, CCTV, Heatmeter, Heater
+- Visible: 
 - 
 ##### Visible Light
 - **ROY G BIV**
