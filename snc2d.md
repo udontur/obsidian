@@ -542,12 +542,12 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ###### Radiation
 -  Energy transmission that does not require a [[#Medium]]
 #### Electromagnetic Wave
-- Wave $=$ electric and magnetic parts
-- Does not require a [[#medium]]
-- Travels at the speed of light
+- Wave $=$ Electric $+$ Magnetic
+- $\uparrow$ Wave Length $=$ $\uparrow$ Frequency
+- $\uparrow$ Amplitude $=$ $\uparrow$ Energy
+- [[#Light]]
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
-$\uparrow$ Wave Length $=$ $\uparrow$ Frequency
-$\uparrow$ Amplitude $=$ $\uparrow$ Energy
+
 
 ### Electromagnetic Spectrum
 ![[Pasted image 20241111144758.png]]
