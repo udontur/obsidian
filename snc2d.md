@@ -532,7 +532,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Light
 - [[#Electromagnetic Wave]] $=$ Energy
 - Energy transmitted through [[#Radiation]] ([[#Medium]] is NOT required)
-- $C=3\times 10^8$ (Significantly faster than sound)???
+- $C=3\times 10^8\;\text{ms}^{-1}$ (Significantly faster than sound)???
 - $0.0035\%$ are visible light???
 ###### Medium
 - Physical carrier for transmitting energy
