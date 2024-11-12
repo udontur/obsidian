@@ -559,4 +559,4 @@ ADD SPACE EXAMPLE
 - Green
 - Blue
 - Indigo
-- Violet ( $\downarrow$ wavelength, $\uparrow$ frequency,)
+- Violet ($\downarrow$ wavelength, $\uparrow$ frequency,)
