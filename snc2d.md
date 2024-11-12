@@ -550,7 +550,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Electromagnetic Spectrum
 ![[Drawing 2024-11-12 09.50.13.excalidraw]]
 ##### Example
-- Astronomical discovery: Analyze data about the universe
+- Astronomy: Analyze data about the universe
 - Radio: Phone, Radar, TV, Radio
 - Microwave: Microwaves
 - Infrared: Remote, CCTV, Heat detection, Heater
