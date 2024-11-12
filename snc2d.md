@@ -555,8 +555,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Microwave: Microwaves
 - Infrared: Remote, CCTV, Heatmeter, Heater
 - Visible: Screen, Laser, Lighting
-- Ultraviolet: Sterilization
-- 
+- Ultraviolet: Disinfection
+- X-Ray: Medical scan, 
 ##### Visible Light
 - **ROY G BIV**
 1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
