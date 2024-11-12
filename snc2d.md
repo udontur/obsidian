@@ -543,14 +543,11 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 -  Energy transmission that does not require a [[#Medium]]
 #### Electromagnetic Wave
 - A Wave: Electric $+$ Magnetic
-- $\uparrow$ Wave Length $=$ $\uparrow$ Frequency
+- $\uparrow$ Wave Length $=$ $\downarrow$ Frequency
 - $\uparrow$ Amplitude $=$ $\uparrow$ Energy
 - [[#Light]]
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
-
-
 ### Electromagnetic Spectrum
-
 ![[Drawing 2024-11-12 09.50.13.excalidraw]]
 ADD EXAMPLE
 ADD SPACE EXAMPLE
@@ -562,4 +559,4 @@ ADD SPACE EXAMPLE
 - Green
 - Blue
 - Indigo
-- Violet (($\downarrow$ frequency, $\uparrow$ wavelength)
+- Violet ($\uparrow$ frequency, $\downarrow$ wavelength)
