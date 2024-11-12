@@ -5,7 +5,7 @@
     - Question: Compare the following terms, giving specific examples for each. Physical property vs Chemical property
     - Good: The reactivity between vinegar and baking soda is a chemical property.
     - Bad: Reactivity between two substance is a chemical property. 
-3. If milk of magnesia is synthesized: $\text{MgO}+\text{H}_{2}\text{O} \to \text{Mg(OH)}_{2}$
+3. If milk of magnesia is synthesized: $\ce{MgO}+$
 # Unit 1: Chemistry
 ## Lewis Diagram
 - Draws the valance electrons only
@@ -571,3 +571,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 5. Blue
 6. Indigo
 7. Violet ($\downarrow$ wavelength, $\uparrow$ frequency)
+## 2. Light production
+## 3. Reflection
