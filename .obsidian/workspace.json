@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68a8dc5dc3344572",
+  "active": "92187f4707828ba7",
   "lastOpenFiles": [
     "bep2d.md",
     "eng2d.md",

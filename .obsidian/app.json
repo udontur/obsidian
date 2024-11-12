@@ -1,6 +1,7 @@
 {
-  "showRibbon": true,
+  "showRibbon": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "defaultViewMode": "source"
 }
