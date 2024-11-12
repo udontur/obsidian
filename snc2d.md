@@ -554,7 +554,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Radio: Phone, Radar, TV, Radio
 - Microwave: Microwaves
 - Infrared: Remote, CCTV, Heatmeter, Heater
-- Visible: 
+- Visible: Screen, Laser, Lighting
+- Ultraviolet: Sterilization
 - 
 ##### Visible Light
 - **ROY G BIV**
