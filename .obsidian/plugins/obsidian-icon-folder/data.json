@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiExcalidrawIcon",
+      "LiImages",
+      "LiBriefcaseBusiness",
+      "LiAtom",
+      "LiBookA"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +32,10 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "eng2d.md": "LiBookA",
+  "snc2d.md": "LiAtom",
+  "bep2d.md": "LiBriefcaseBusiness",
+  "image": "LiImages",
+  "excalidraw": "LiExcalidrawIcon"
 }
