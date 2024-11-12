@@ -549,14 +549,14 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
 ### Electromagnetic Spectrum
 ![[Drawing 2024-11-12 09.50.13.excalidraw]]
-ADD EXAMPLE
-ADD SPACE EXAMPLE
+##### Example
+1. Red: 
 ##### Visible Light
 - **ROY G BIV**
-- Red ($\uparrow$ wavelength, $\downarrow$ frequency)
-- Orange
-- Yellow
-- Green
-- Blue
-- Indigo
-- Violet ($\downarrow$ wavelength, $\uparrow$ frequency,)
+1. Red ($\uparrow$ wavelength, $\downarrow$ frequency)
+2. Orange
+3. Yellow
+4. Green
+5. Blue
+6. Indigo
+7. Violet ($\downarrow$ wavelength, $\uparrow$ frequency,)
