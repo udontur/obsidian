@@ -11,7 +11,7 @@
 - Draws the valance electrons only
 - The dots are the electrons
 - The lines are the bonds (2 electrons)
-- How to draw: ![[snc2d-]]
+- How to draw: ![[snc2d-lewis]]
 ## Naming bonds
 ### Terms
 - Molecule: 2+ same or different atoms chemically bonded
@@ -548,7 +548,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - [[#Light]]
 ![[Drawing 2024-11-11 14.00.58.excalidraw]] 
 ### Electromagnetic Spectrum
-![[Drawing 2024-11-12 09.50.13.excalidraw]]
+![[snc2d-]]
 ##### Example
 - Astronomy: Analyze data about the universe
 - Radio: Phone, Radar, TV, Radio

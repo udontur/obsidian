@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "excalidraw/lewis-diagram-demo.md"
+                "file": "excalidraw/snc2d-.md"
               },
               "icon": "excalidraw-icon",
-              "title": "lewis-diagram-demo"
+              "title": "snc2d-"
             }
           }
         ]
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed19e4854f57c54c",
+  "active": "92187f4707828ba7",
   "lastOpenFiles": [
+    "excalidraw/snc2d-lewis.md",
     "excalidraw/snc2d-plantcell.md",
     "excalidraw/snc2d-animalcell.md",
     "excalidraw/Drawing 2024-10-05 11.54.34.excalidraw.md",
-    "excalidraw/lewis-diagram-demo.md",
     "excalidraw/slkjsdlfjk.md",
     "excalidraw/Drawing 2024-10-31 21.35.44.excalidraw.md",
     "excalidraw/Drawing 2024-11-12 22.01.35.excalidraw.md",
@@ -186,7 +187,7 @@
     "excalidraw/Drawing 2024-10-31 21.44.27.excalidraw.md",
     "excalidraw/Drawing 2024-11-01 09.25.06.excalidraw.md",
     "excalidraw/Drawing 2024-11-11 14.00.58.excalidraw.md",
-    "excalidraw/Drawing 2024-11-12 09.50.13.excalidraw.md",
+    "excalidraw/snc2d-.md",
     "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "excalidraw/Drawing 2024-10-31 21.28.11.excalidraw.md",
