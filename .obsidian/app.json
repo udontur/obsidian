@@ -2,6 +2,7 @@
   "showRibbon": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showInlineTitle": true,
-  "defaultViewMode": "source"
+  "showInlineTitle": false,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": false
 }

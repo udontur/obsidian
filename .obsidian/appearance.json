@@ -3,5 +3,5 @@
   "cssTheme": "",
   "nativeMenus": false,
   "theme": "obsidian",
-  "showViewHeader": true
+  "showViewHeader": false
 }
