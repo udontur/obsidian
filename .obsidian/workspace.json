@@ -25,10 +25,12 @@
             "id": "7f315d270b225a95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/20241113101042.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "20241113101042.excalidraw"
             }
           }
         ],
@@ -88,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a10281f68e2d7786",
@@ -150,9 +151,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "draw/20241113101042.excalidraw.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20241113101042.excalidraw"
             }
           },
           {
@@ -187,6 +190,7 @@
   },
   "active": "7f315d270b225a95",
   "lastOpenFiles": [
+    "draw/Drawing 2024-10-05 11.54.34.excalidraw.md",
     "snc2d.md",
     "draw/20241113101042.excalidraw.md",
     "bep2d.md",
@@ -195,7 +199,6 @@
     "draw/snc2d-.md",
     "draw/snc2d-lewis.md",
     "draw/snc2d-animalcell.md",
-    "draw/Drawing 2024-10-05 11.54.34.excalidraw.md",
     "excalidraw/slkjsdlfjk.md",
     "draw/Drawing 2024-10-31 21.35.44.excalidraw.md",
     "excalidraw/Drawing 2024-11-12 22.01.35.excalidraw.md",
