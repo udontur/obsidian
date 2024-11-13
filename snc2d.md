@@ -576,7 +576,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Produce light
 ##### Non-Luminous
 - Reflect light
-
 ### Incandescent
 - Heating a metal filament using Electricity
 - High temperature metal glow
