@@ -609,4 +609,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Example: Quartz crystal, Diamond
 ### Light Emitting Diode (LED)
 - Semiconductor $+$ Electricity
-- Small heat releas- Very efficient
+- Small heat release
+- Very efficient
