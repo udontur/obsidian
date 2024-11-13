@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a10281f68e2d7786",
@@ -160,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +177,9 @@
   },
   "active": "11d0f808d15eb5d5",
   "lastOpenFiles": [
+    "eng2d.md",
+    "bep2d.md",
+    "snc2d.md",
     "draw/20241113200759.excalidraw.md",
     "draw/20241113195843.excalidraw.md",
     "draw/20241021165018.excalidraw.md",
@@ -186,10 +189,7 @@
     "draw/Drawing 2024-10-21 17.11.29.excalidraw.md",
     "draw/Drawing 2024-10-21 17.07.18.excalidraw.md",
     "draw/20241113201428.excalidraw.md",
-    "snc2d.md",
     "draw/20241113101042.excalidraw.md",
-    "bep2d.md",
-    "eng2d.md",
     "draw/snc2d-plantcell.md",
     "draw/snc2d-.md",
     "draw/snc2d-lewis.md",

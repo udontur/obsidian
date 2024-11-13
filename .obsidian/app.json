@@ -1,5 +1,5 @@
 {
-  "showRibbon": false,
+  "showRibbon": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "showInlineTitle": false,
