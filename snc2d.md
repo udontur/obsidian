@@ -600,7 +600,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Living Organism
 - Minimal heat release
 - Examples
-	1. Fireflies: Luciferase (enzyme) $+$ Oxygen $+$ Luciferin $=$
+	1. Fireflies: Luciferin $+$ Oxygen $+$ Luciferase (enzyme) $=$ 
 	2. Angular fish: 
 	3. Jelly fish:
 	4. 
