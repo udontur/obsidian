@@ -583,5 +583,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Very Inefficient: $5\%$ Light energy
 ### Electric Discharge
 - Pass Electricity through Gas
-- Example: Noble Gas $+$ Electricity $=$ Light
+- Example: Noble Gas $+$ Electricity $=$ Light (Electrons hanging around)
+### Fluorescence
+- Absorb UV, I
 ## 3. Reflection
