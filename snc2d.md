@@ -600,7 +600,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Living Organism
 - Minimal heat release
 - Examples
-	-
+	1. Fireflies: 
+	2. Angular fish: 
+	3. Jelly fish:
+	4. 
 ### Triboluminescence
 - Friction
 - Crush, Scratch, Ripped, Rubbed
