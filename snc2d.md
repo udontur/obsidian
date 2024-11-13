@@ -578,5 +578,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Reflect light
 
 ### Incandescent
-- Meth
+- Heating a metal filament using Electrcity
+- Very Inefficient: $5\%$ Light energy
+
 ## 3. Reflection
