@@ -11,12 +11,14 @@
             "id": "11d0f808d15eb5d5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "draw/20241113201428.excalidraw.md"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "20241113201428.excalidraw"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draw/20241113201428.excalidraw.md"
+                "file": "snc2d.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20241113201428.excalidraw"
+              "title": "Outline of snc2d"
             }
           },
           {
@@ -175,8 +177,8 @@
   },
   "active": "11d0f808d15eb5d5",
   "lastOpenFiles": [
-    "draw/20241113200759.excalidraw.md",
     "draw/20241113201428.excalidraw.md",
+    "draw/20241113200759.excalidraw.md",
     "snc2d.md",
     "draw/20241113195843.excalidraw.md",
     "draw/20241113101042.excalidraw.md",
