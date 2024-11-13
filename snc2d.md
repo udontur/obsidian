@@ -617,4 +617,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ## 3. Reflection
 #### Rays
 - Light traveling in a straight line without obstacles
-- Indicated with st
+- Indicated with straight lines and one arrow
+#### Opacity
+##### 1. Translucent
+- $100\%$ light pass through
+##### 2. 
