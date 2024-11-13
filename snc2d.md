@@ -633,4 +633,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[20241113195843.excalidraw]]
 
 ### Laws of Reflection
-- Angle of Incident $=$ Angle of Reflection, 
+- Angle of Incident $=$ Angle of Reflection, $\theta_{i}=\theta_{r}$
+- Incident Ray, Reflected Ray and Normal lies of the same plane
+- 
