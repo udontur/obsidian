@@ -582,5 +582,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - High temperature metal glow
 - Very Inefficient: $5\%$ Light energy
 ### Electric Discharge
-- Pass 
+- Pass Electricity through Gas
+- Example: Noble Gas $+$ Electricity $=$ Light
 ## 3. Reflection
