@@ -6,7 +6,7 @@
     - Good: The reactivity between vinegar and baking soda is a chemical property.
     - Bad: Reactivity between two substance is a chemical property. 
 3. If milk of magnesia is synthesized: $\ce{MgO}+\ce{H_{2}O}\to\ce{Mg(OH)2}$
-4. READ THE FUCKING QUESTION CAREFULLY 
+4. 
 # Unit 1: Chemistry
 ## Lewis Diagram
 - Draws the valance electrons only
