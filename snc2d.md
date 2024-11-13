@@ -594,5 +594,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Example: The glowing clocks
 ### Chemiluminescence
 - Chemical Reaction make light
-- Minimal heat re
+- Minimal heat release
+- Example: Glow stick, Luminol (React with iron in blood)
+- 
 ## 3. Reflection
