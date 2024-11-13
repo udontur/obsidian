@@ -6,7 +6,7 @@
     - Good: The reactivity between vinegar and baking soda is a chemical property.
     - Bad: Reactivity between two substance is a chemical property. 
 3. If milk of magnesia is synthesized: $\ce{MgO}+\ce{H_{2}O}\to\ce{Mg(OH)2}$
-4. READ THE FUCKING QUESTION
+4. READ THE F*CKING QUESTION
 # Unit 1: Chemistry
 ## Lewis Diagram
 - Draws the valance electrons only
@@ -633,7 +633,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[20241113195843.excalidraw]]
 
 ### Laws of Reflection
-- Angle of Incident $=$ Angle of Reflection, $\theta_{i}=\theta_{r}$
+- $\theta_{i}=\theta_{r}$ , Angle of Incident $=$ Angle of Reflection
 - Incident Ray, Reflected Ray and Normal lies of the same plane
 
 ### 1. Specular Reflection
