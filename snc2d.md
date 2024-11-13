@@ -619,6 +619,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Light traveling in a straight line without obstacles
 - Indicated with straight lines and one arrow
 #### Opacity
-##### 1. Translucent
+###### 1. Translucent
 - $100\%$ light pass through
-##### 2. 
+###### 2. Transparent
+- $x\%$ light pass through
+###### 3. Opaque
+- $0\%$ light pass through
+#### Ge
