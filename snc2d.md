@@ -586,5 +586,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Example: Noble Gas $+$ Electricity $=$ Light (Electrons hanging around)
 ### Fluorescence
 - Absorb UV, Instant visible light release
-- Example: Mercury Vapour $+$ Electricity $=$ 
+- Example: Fluorescene Light Bulb
+	1. Mercury Vapour $+$ Electricity $=$ UV Light
+	2. UV Light $+$ Fluorescene $=$ Visible Light
+1
 ## 3. Reflection
