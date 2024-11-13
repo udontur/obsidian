@@ -604,4 +604,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Triboluminescence
 - Friction
 - Crush, Scratch, Ripped, Rubbed
-### Light 
+### Light Emitting Diode (LED)
+- Semiconductor $+$ Electricity
+- Small heat release
+- Very efficient
