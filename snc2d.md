@@ -593,13 +593,14 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Absorb UV, Slow visible light release
 - Example: The glowing clocks
 ### Chemiluminescence
-- Chemical Reaction make light
+- Chemical Reaction
 - Minimal heat release
 - Example: Glow stick, Luminol (React with iron in blood)
 ### Bioluminescence
+- Chemical Reaction
 - Living Organism
-- Chemical Reaction make light
 - Minimal heat release
 - EXAMPLES
 ### Triboluminescence
-- 
+- Friction
+- Example: 
