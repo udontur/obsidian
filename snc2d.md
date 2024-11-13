@@ -597,6 +597,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Minimal heat release
 - Example: Glow stick, Luminol (React with iron in blood)
 ### Bioluminescence
-- Living Organism Chemical Reaction make light
+- Living Organism
+- Chemical Reaction make light
 - Minimal heat release
 ## 3. Reflection
