@@ -616,3 +616,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ## 3. Reflection
 Rays: Light traveling in a straight line
+Light travels in a straight line without obstacles
