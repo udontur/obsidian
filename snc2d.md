@@ -606,6 +606,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ### Triboluminescence
 - Friction
 - Crush, Scratch, Ripped, Rubbed
+- Example: Quartz crystal, Diamond
 ### Light Emitting Diode (LED)
 - Semiconductor $+$ Electricity
 - Small heat releas- Very efficient
