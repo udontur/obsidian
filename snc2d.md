@@ -603,4 +603,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - EXAMPLES
 ### Triboluminescence
 - Friction
-- Example: 
+- Crush, Scratch, Ripped, Rubbed
+### Light 
