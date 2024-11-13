@@ -613,3 +613,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Semiconductor $+$ Electricity
 - Small heat release
 - Very efficient
+
+## 3. Reflection
