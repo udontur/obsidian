@@ -631,3 +631,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Bouncing back of light from a surface
 #### Drawing conventions
 ![[20241113195843.excalidraw]]
+
+### Laws of Reflection
+- Angle of Incident $=$ Angle of Reflection, 
