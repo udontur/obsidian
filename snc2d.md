@@ -572,4 +572,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 6. Indigo
 7. Violet ($\downarrow$ wavelength, $\uparrow$ frequency)
 ## 2. Light production
+#### Luminous
+- Produce light
+#### Non-Luminous
+- Reflect light
 ## 3. Reflection
