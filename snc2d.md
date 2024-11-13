@@ -625,4 +625,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - $x\%$ light pass through
 ###### 3. Opaque
 - $0\%$ light pass through
-#### Ge
+#### Geometric Optics
+
