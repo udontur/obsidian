@@ -636,5 +636,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Angle of Incident $=$ Angle of Reflection, $\theta_{i}=\theta_{r}$
 - Incident Ray, Reflected Ray and Normal lies of the same plane
 
-### Specular Reflection
+### 1. Specular Reflection
+- Smooth surface
+- Parallel reflection
 ![[20241113200759.excalidraw]]
+### 2. Diffuse 

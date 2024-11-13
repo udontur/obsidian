@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "snc2d"
             }
-          },
-          {
-            "id": "0858f3ec2eafa94c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "draw/20241113200759.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "20241113200759.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draw/20241113200759.excalidraw.md"
+                "file": "snc2d.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20241113200759.excalidraw"
+              "title": "Outline of snc2d"
             }
           },
           {
@@ -188,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0858f3ec2eafa94c",
+  "active": "92187f4707828ba7",
   "lastOpenFiles": [
-    "snc2d.md",
     "draw/20241113200759.excalidraw.md",
+    "snc2d.md",
     "draw/20241113195843.excalidraw.md",
     "draw/20241113101042.excalidraw.md",
     "draw/Drawing 2024-10-05 11.54.34.excalidraw.md",
