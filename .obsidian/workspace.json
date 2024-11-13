@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "snc2d"
             }
-          },
-          {
-            "id": "92e2aaa021e4fc10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "draw/20241113101042.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "20241113101042.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draw/20241113101042.excalidraw.md"
+                "file": "snc2d.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 20241113101042.excalidraw"
+              "title": "Outline of snc2d"
             }
           },
           {
@@ -189,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92e2aaa021e4fc10",
+  "active": "92187f4707828ba7",
   "lastOpenFiles": [
-    "snc2d.md",
     "draw/20241113101042.excalidraw.md",
+    "snc2d.md",
     "bep2d.md",
     "eng2d.md",
     "draw/snc2d-plantcell.md",
