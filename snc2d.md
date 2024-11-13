@@ -588,6 +588,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Absorb UV, Instant visible light release
 - Example: Fluorescene Light Bulb
 	1. Mercury Vapour $+$ Electricity $=$ UV Light
-	2. UV Light $+$ Fluorescene $=$ Visible Light
-1
+	2. UV Light $+$ Fluorescent $=$ Visible Light
+### Phosphorescene
+- 
 ## 3. Reflection
