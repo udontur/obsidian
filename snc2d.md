@@ -33,6 +33,7 @@
     - 4: Tetra
     - 5: Penta
     - 6: Hexa
+- Less electronegative element go first
 - Do not add "Mono" to the first element
 - Add "-ide" to the last element only
 ## Ionic bonds
