@@ -629,10 +629,12 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Use light rays to determine how light behaves when it strikes an object
 #### Reflection
 - Bouncing back of light from a surface
-#### Drawing conventions
+### Drawing conventions
 ![[20241113195843.excalidraw]]
 
 ### Laws of Reflection
 - Angle of Incident $=$ Angle of Reflection, $\theta_{i}=\theta_{r}$
 - Incident Ray, Reflected Ray and Normal lies of the same plane
-- 
+
+### Specular Reflection
+![[20241113200759.excalidraw]]
