@@ -599,7 +599,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Chemical Reaction
 - Living Organism
 - Minimal heat release
-- EXAMPLES
+- Examples
+	-
 ### Triboluminescence
 - Friction
 - Crush, Scratch, Ripped, Rubbed
