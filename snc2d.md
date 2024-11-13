@@ -602,11 +602,10 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Examples
 	1. Fireflies: Luciferin $+$ Oxygen $+$ Luciferase (enzyme) $\to$ Photons (Light) $+$ Inactive Oxyluciferin (Oxidized)
 	2. Angular fish: A sack of glowing bacteria
-	3. Jelly fish:
+	3. Jelly fish: Enzymes like fireflies
 ### Triboluminescence
 - Friction
 - Crush, Scratch, Ripped, Rubbed
 ### Light Emitting Diode (LED)
 - Semiconductor $+$ Electricity
-- Small heat release
-- Very efficient
+- Small heat releas- Very efficient
