@@ -603,7 +603,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	1. Fireflies: Luciferin $+$ Oxygen $+$ Luciferase (enzyme) $=$ Photons (Light)
 	2. Angular fish: 
 	3. Jelly fish:
-	4. 
 ### Triboluminescence
 - Friction
 - Crush, Scratch, Ripped, Rubbed
