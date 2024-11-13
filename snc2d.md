@@ -591,5 +591,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 	2. UV Light $+$ Fluorescent $=$ Visible Light
 ### Phosphorescence
 - Absorb UV, Slow visible light release
-- 
+- Example: The glowing clocks
+
 ## 3. Reflection
