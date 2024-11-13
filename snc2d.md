@@ -628,4 +628,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 #### Geometric Optics
 - Use light rays to determine how light behaves when it strikes an object
 #### Reflection
-- 
+- Bouncing back of light from a surface
+#### Drawing conventions
+![[20241113195843.excalidraw]]
