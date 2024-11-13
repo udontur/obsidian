@@ -642,4 +642,5 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ![[20241113200759.excalidraw]]
 ### 2. Diffuse Reflection
 - Irregular surface
-- Irregular reflection, Scattered 
+- Irregular reflection, Scattered reflected rays
+![[20241113201428.excalidraw]]
