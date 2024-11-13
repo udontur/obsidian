@@ -7,8 +7,8 @@
     - Bad: Reactivity between two substance is a chemical property. 
 3. If milk of magnesia is synthesized: $\ce{MgO}+\ce{H_{2}O}\to\ce{Mg(OH)2}$
 4. READ THE F\*\*KING QUESTION CAREFULLY
-	1. Especially the bold parts
-	2. Don't act smart and fast and directly do the question, 
+	2. 後果自負, Don't act smart and fast and directly do the question
+	3. Especially the bold parts
 # Unit 1: Chemistry
 ## Lewis Diagram
 - Draws the valance electrons only
