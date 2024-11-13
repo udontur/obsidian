@@ -638,6 +638,8 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ### 1. Specular Reflection
 - Smooth surface
-- Parallel reflection
+- Regular reflection
 ![[20241113200759.excalidraw]]
-### 2. Diffuse 
+### 2. Diffuse Reflection
+- Irregular surface
+- Irregular reflection, Scattered 
