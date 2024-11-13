@@ -11,12 +11,14 @@
             "id": "11d0f808d15eb5d5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "draw/Drawing 2024-10-21 17.14.38.excalidraw.md"
+                "file": "snc2d.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-21 17.14.38.excalidraw"
+              "icon": "lucide-file",
+              "title": "snc2d"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draw/Drawing 2024-10-21 17.14.38.excalidraw.md"
+                "file": "snc2d.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-10-21 17.14.38.excalidraw"
+              "title": "Outline of snc2d"
             }
           },
           {
@@ -175,14 +177,15 @@
   },
   "active": "11d0f808d15eb5d5",
   "lastOpenFiles": [
+    "draw/20241113200759.excalidraw.md",
+    "draw/20241113195843.excalidraw.md",
+    "draw/20241021165018.excalidraw.md",
+    "draw/20241005115434.excalidraw.md",
+    "draw/Drawing 2024-10-21 16.56.47.excalidraw.md",
+    "draw/Drawing 2024-10-21 17.14.38.excalidraw.md",
     "draw/Drawing 2024-10-21 17.11.29.excalidraw.md",
     "draw/Drawing 2024-10-21 17.07.18.excalidraw.md",
-    "draw/Drawing 2024-10-21 16.56.47.excalidraw.md",
-    "draw/Drawing 2024-10-21 16.50.18.excalidraw.md",
-    "draw/Drawing 2024-10-05 11.54.34.excalidraw.md",
     "draw/20241113201428.excalidraw.md",
-    "draw/20241113195843.excalidraw.md",
-    "draw/20241113200759.excalidraw.md",
     "snc2d.md",
     "draw/20241113101042.excalidraw.md",
     "bep2d.md",
@@ -200,7 +203,6 @@
     "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
     "draw/Drawing 2024-10-31 21.28.11.excalidraw.md",
-    "draw/Drawing 2024-10-31 21.24.27.excalidraw.md",
     "image/snc2d-nerve.png",
     "image/snc2d-digest.png",
     "image/snc2d-heart.png",

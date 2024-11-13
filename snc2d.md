@@ -272,7 +272,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
     - Sexual: Meiosis
 
 ### Chromosome Structure
-![[Drawing 2024-10-05 11.54.34.excalidraw]]
+![[20241005115434.excalidraw]]
 
 ### Interphase
 - **G1**: [[#Organelles]] duplicate, Normal life functions
@@ -398,7 +398,7 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 
 ## 7. Specialized Cells
 #### 1. Red Blood
-![[Drawing 2024-10-21 16.50.18.excalidraw]]
+![[20241021165018.excalidraw]]
 - **Structure**
 	- Dimple in the middle holds $\text{O}_{2}$
 	- Hemoglobin picks up $\text{O}_{2}$
