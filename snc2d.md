@@ -626,4 +626,6 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 ###### 3. Opaque
 - $0\%$ light pass through
 #### Geometric Optics
-
+- Use light rays to determine how light behaves when it strikes an object
+#### Reflection
+- 
