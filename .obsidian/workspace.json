@@ -171,11 +171,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11d0f808d15eb5d5",
+  "active": "ca425a6cec2346d0",
   "lastOpenFiles": [
     "eng2d.md",
     "bep2d.md",
