@@ -59,7 +59,7 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 Indulgences
 1. Alcohol
 2. Cars
-3. 
+3. Gatsby Part: Young pretty women $=$ attract men $=$ Get people's mo
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
