@@ -15,6 +15,10 @@
 - Have: Money, Car, Wife, Strong
 ##### Daisy Buchanan
 - [[#Superficial]]
+- Stupid $=$ small minded $=$ Inconsequential --> Everything she says does not matter, does not use brain. Surface level superficial
+- Does nothing to futher herself
+	- Some depth to the character
+	- 
 ##### Jordan Baker
 - [[#Contemptuous]]
 - Responded absently
@@ -90,6 +94,7 @@ Nick will be overwhelmed by the place and the people because of the negative in 
 Visual Imagery: "Car lurched up the rocky dri..."
 Pathetic fallacy: set a somber mood (raining in chapter 5)
 ### Device
+- Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 
 ### GATSBY HISTORY
 Wolfshiem wear jewelries made of human teeth, professional yapper
