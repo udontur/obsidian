@@ -56,7 +56,10 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - 1919 World Series fix
 - Jazz age
 - Prohibition age (bootlegging); Cause: Temperance movement
-
+Indulgences
+1. Alcohol
+2. Cars
+3. 
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
