@@ -48,5 +48,14 @@
   "switcher:open": [],
   "workspace:edit-file-title": [],
   "editor:open-search-replace": [],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "obsidian-hider:toggle-hider-status": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
 }
