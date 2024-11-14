@@ -17,8 +17,10 @@
 - [[#Superficial]]
 - Stupid $=$ small minded $=$ Inconsequential --> Everything she says does not matter, does not use brain. Surface level superficial
 - Does nothing to futher herself
-	- Some depth to the character
-	- 
+- Some depth to the character
+	- Some self awareness
+	- Trauma --> Vacuousness $=$ shield
+
 ##### Jordan Baker
 - [[#Contemptuous]]
 - Responded absently
