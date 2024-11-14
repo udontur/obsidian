@@ -21,6 +21,7 @@
 - [[#Impersonal]]
 - Dishonest
 - [[#Egotistical]]
+#### James Gatz (Gatsby be)
 ### Setting
 #### West Egg
 - New Money
@@ -51,7 +52,7 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Green light --> Gatsby's dream (winning Daisy's love)
 - Yellow color --> New money and status
 - Gold color --> Proper old money
-- White color --> Clean and Pure love, Marriage, privilege (white card), wealth (have mony )
+- White color --> Clean and Pure love, Marriage, privilege (white card), wealth (have money to clean his white suit)
 ### Historical connections
 - Post WW1
 - Roaring 20s
@@ -78,6 +79,8 @@ Nick will be overwhelmed by the place and the people because of the negative in 
 - There is the movie guy that is rich but unhappy
 - People in Gatsby's part are wealthy, but not happy
 Visual Imagery: "Car lurched up the rocky dri..."
+Pathetic fallacy: set a somber mood (raining in chapter 5)
+
 ### GATSBY HISTORY
 Wolfshiem wear jewelries made of human teeth, professional yapper
 Some truth, some embellishment to make himself look better
