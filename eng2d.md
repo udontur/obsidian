@@ -106,7 +106,7 @@ Pathetic fallacy
 - Contrast: White
 	- Purity
 	- Jordan's dress (Jordan is not pure)
-	- 
+
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 
