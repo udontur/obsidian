@@ -51,7 +51,7 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Green light --> Gatsby's dream (winning Daisy's love)
 - Yellow color --> New money and status
 - Gold color --> Proper old money
-- White ==??==
+- White color --> 
 ### Historical connections
 - Post WW1
 - Roaring 20s
