@@ -49,7 +49,9 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 #### American Dream's Lie
 ### Symbols
 - Green light --> Gatsby's dream (winning Daisy's love)
-- Yellow color --> Money and status
+- Yellow color --> New money and status
+- Gold color --> Proper old money
+- White ==??==
 ### Historical connections
 - Post WW1
 - Roaring 20s
