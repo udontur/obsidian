@@ -10,6 +10,10 @@
 - The "Great" man: Money, Power, Confidence
 - Had a dream that fueled him: Winning Daisy's love
 - Society was [[#superficial]]. but Gatsby had [[#veal dreams]] -> [[#a man of substance]]
+- Messy
+- Obsessive --> Values the journey and say I want, not the goal (Daisy)
+- prove his worth --> witness to his greatnesss
+- Nick: Gatsby's minion
 ##### Tom Buchanan
 - [[#Epitome]] of a 1920s man 
 - Have: Money, Car, Wife, Strong
@@ -94,7 +98,8 @@ Nick will be overwhelmed by the place and the people because of the negative in 
 - There is the movie guy that is rich but unhappy
 - People in Gatsby's part are wealthy, but not happy
 Visual Imagery: "Car lurched up the rocky dri..."
-Pathetic fallacy: set a somber mood (raining in chapter 5)
+Pathetic fallacy
+- set a somber mood (raining in chapter 5)
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 
