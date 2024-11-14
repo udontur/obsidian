@@ -28,7 +28,9 @@
 - Ambitious (Don't care the consequence)
 #### Dan Cody
 - Mentor figure: The sage archetype
-- Ellen kaye killed Dan Cody and get all the money (implied: "it might have last)
+- Ellen kaye killed Dan Cody and get all the money (implied: "it might have lasted indefinetely")
+- But Gatsby gets the knowledge
+
 ### Setting
 #### West Egg
 - New Money
@@ -87,6 +89,7 @@ Nick will be overwhelmed by the place and the people because of the negative in 
 - People in Gatsby's part are wealthy, but not happy
 Visual Imagery: "Car lurched up the rocky dri..."
 Pathetic fallacy: set a somber mood (raining in chapter 5)
+### Device
 
 ### GATSBY HISTORY
 Wolfshiem wear jewelries made of human teeth, professional yapper
