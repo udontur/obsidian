@@ -65,7 +65,8 @@ Indulgences
 	2. Build connections
 Gatsby Rumors
 - "German Spy": Reckless, loose lipped
-- "Murder": hypocrites
+- "Murder": [[#hypocrites]]
+Rich folks gossi
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
@@ -87,8 +88,8 @@ Gatsby Rumors
 - (Adjective): Without human warmth; not friendly and without features that make people feel interested or involved.
 ##### Superiority complex
 - (Noun): If you have a superiority complex, you believe that you are better, cleverer, or more important than other people.
-#####
-- 
+##### Hypocrites
+- A person behaving in a way that suggests one has higher standards or more noble beliefs than is the case.
 #####
 - 
 #####
