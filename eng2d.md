@@ -56,10 +56,16 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - 1919 World Series fix
 - Jazz age
 - Prohibition age (bootlegging); Cause: Temperance movement
+### POINTS
 Indulgences
 1. Alcohol
 2. Cars
-3. Gatsby Part: Young pretty women $=$ attract men $=$ Get people's mo
+3. Gatsby Part: Young pretty women $=$ attract men $=$ Get people's money and connection
+	1. Networking
+	2. Build connections
+Gatsby Rumors
+- "German Spy": Reckless, loose lipped
+- "Murder": hypocrites
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
