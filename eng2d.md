@@ -21,7 +21,14 @@
 - [[#Impersonal]]
 - Dishonest
 - [[#Egotistical]]
-#### James Gatz (Gatsby be)
+#### James Gatz (Gatsby before Dan Cody)
+- Manipulative (Throw after get wanted)
+- Entitled
+- Ungrateful
+- Ambitious (Don't care the consequence)
+#### Dan Cody
+- Mentor figure: The sage archetype
+- Ellen kaye killed Dan Cody and get all the money (implied: "it might have last)
 ### Setting
 #### West Egg
 - New Money
