@@ -109,7 +109,8 @@ Pathetic fallacy
 
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
-
+- Metaphor: "Her voice is full of money" --> indiscreet --> head empty, no thoughts
+- Foreshadowing: "Imagine marrying somebody in this heat!" 
 ### GATSBY HISTORY
 Wolfshiem wear jewelries made of human teeth, professional yapper
 Some truth, some embellishment to make himself look better
