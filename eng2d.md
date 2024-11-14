@@ -76,7 +76,9 @@ Nick will be overwhelmed by the place and the people because of the negative in 
 - There is the movie guy that is rich but unhappy
 - People in Gatsby's part are wealthy, but not happy
 Visual Imagery: "Car lurched up the rocky dri..."
-##
+### GATSBY HISTORY
+Wolfshiem wear jewelries made of human teeth, professional yapper
+Some truth, some embellishment to make himself look better
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
