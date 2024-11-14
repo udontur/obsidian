@@ -100,6 +100,13 @@ Nick will be overwhelmed by the place and the people because of the negative in 
 Visual Imagery: "Car lurched up the rocky dri..."
 Pathetic fallacy
 - set a somber mood (raining in chapter 5)
+- Contrast: Sun (Heat)
+	- Warm, Hope, Life
+	- Hot --> Hell
+- Contrast: White
+	- Purity
+	- Jordan's dress (Jordan is not pure)
+	- 
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 
