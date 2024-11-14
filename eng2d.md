@@ -110,17 +110,13 @@ Jay Gatsby is dead
 1. Tom and Daisy ran away
 2. Daisy
 	1. Lover
-	2. Society: Rich + Pretty + Married (Suppose she is
-better than poors → People praise her) (GOLD
-DIGGER!)
-c. Emotional connection with Gatsby
+	2. Society: Rich + Pretty + Married (Suppose she is better than poors → People praise her) (GOLD DIGGER!)
+	3. Emotional connection with Gatsby
 3. Meyer Wolfsheim
-a. transactional relationship
-b. sent a letter
-c. Business partner / Bro
-d. Criminal: New Money, Conditional → But care
-about people that care about him (People hate
-him)
+4. transactional relationship
+5. sent a letter
+6. Business partner / Bro
+7. Criminal: New Money, Conditional → But care about people that care about him (People hate him)
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 - Metaphor: "Her voice is full of money" --> indiscreet --> head empty, no thoughts
