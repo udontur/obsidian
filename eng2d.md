@@ -68,6 +68,7 @@ Gatsby Rumors
 - "Murder": [[#hypocrites]]
 Rich folks gossip
 - Latest cheating new of tom buchanan
+- Information $=$ 
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
