@@ -117,6 +117,12 @@ Jay Gatsby is dead
 5. sent a letter
 6. Business partner / Bro
 7. Criminal: New Money, Conditional → But care about people that care about him (People hate him)
+8. Class Difference -> Superficiality between his friends
+	1. Tie class differences to moral decay of society
+		1. Tom with mistress
+		2. Daisy entering an affaire
+		3. Gatsby destroy marriage
+Daisy
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 - Metaphor: "Her voice is full of money" --> indiscreet --> head empty, no thoughts
