@@ -122,7 +122,8 @@ Jay Gatsby is dead
 		1. Tom with mistress
 		2. Daisy entering an affaire
 		3. Gatsby destroy marriage
-Daisy
+Daisy is a coward, but the society still praise her because she has moeny
+- ISO image in the 1920s, Fitgerald hate them so he wrote this book
 ### Device
 - Metaphor: “The rack of the world… founded on a fairy’s wing” (106)
 - Metaphor: "Her voice is full of money" --> indiscreet --> head empty, no thoughts
