@@ -66,7 +66,8 @@ Indulgences
 Gatsby Rumors
 - "German Spy": Reckless, loose lipped
 - "Murder": [[#hypocrites]]
-Rich folks gossi
+Rich folks gossip
+- Latest cheating new of tom buchanan
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
