@@ -57,7 +57,6 @@ West Egg and East Egg seperated by physical bound of water (barrier) + sand (bay
 - Jazz age
 - Prohibition age (bootlegging); Cause: Temperance movement
 
-
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
