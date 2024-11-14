@@ -68,7 +68,11 @@ Gatsby Rumors
 - "Murder": [[#hypocrites]]
 Rich folks gossip
 - Latest cheating new of tom buchanan
-- Information $=$ 
+- Information $=$ power over people
+Jordan makes Nick look good
+- Jordan is selfish, dishonest, etc
+- Nick uses her to contrast himself
+Nick will be overwhe
 ### Bank of Words
 ##### Epitome
 - (Noun): A person or thing that is a perfect example of a particular quality or type.
