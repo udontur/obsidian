@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "snc2d"
             }
+          },
+          {
+            "id": "e1a96692cc8f9443",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draw/20241115185610.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "20241115185610.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snc2d.md"
+                "file": "draw/20241115185610.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of snc2d"
+              "title": "Outline of 20241115185610.excalidraw"
             }
           },
           {
@@ -176,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11d0f808d15eb5d5",
+  "active": "e1a96692cc8f9443",
   "lastOpenFiles": [
-    "eng2d.md",
     "snc2d.md",
+    "draw/20241115185610.excalidraw.md",
+    "eng2d.md",
     "bep2d.md",
     "draw/20241113200759.excalidraw.md",
     "draw/20241113195843.excalidraw.md",
@@ -203,7 +217,6 @@
     "draw/Drawing 2024-11-11 14.00.58.excalidraw.md",
     "excalidraw/Drawing 2024-11-11 14.37.53.excalidraw.md",
     "excalidraw/Drawing 2024-11-05 10.46.58.excalidraw.md",
-    "draw/Drawing 2024-10-31 21.28.11.excalidraw.md",
     "image/snc2d-nerve.png",
     "image/snc2d-digest.png",
     "image/snc2d-heart.png",
