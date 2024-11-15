@@ -646,3 +646,4 @@ Cell cycle: A series of event where the cell grows, reproduces, and dies
 - Irregular surface
 - Irregular reflection, Scattered reflected rays
 ![[20241113201428.excalidraw]]
+## 4. ajddfhjsd
